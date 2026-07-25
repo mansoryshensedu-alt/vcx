@@ -1,0 +1,1374 @@
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+ğŸ” ALL SERVICES DEEP SCANNER
+Game: Ugc
+PlaceId: 100776703099512
+Time: 03:05:57
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+â•â•â•â•â•â•â•â•â•â•â• [Workspace] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 56
+
+  [Camera] Camera
+  [Model] RoomTemplate3
+    [Model] Cage
+      [Model] PlayerCanvas1
+      [Model] RefCanvas
+      [Model] PlayerCanvas2
+    [Model] Spawns
+      [Part] p2out (Pos: -18.549072265625, -40.49144744873047, -37.02893829345703)
+      [Part] p1 (Pos: -28.87905502319336, -40.47844696044922, -27.71100425720215)
+      [Part] AnimationPosition (Pos: -23.74905776977539, -37.881446838378906, -27.71100425720215)
+      [Part] p2 (Pos: -18.549072265625, -40.49144744873047, -27.772947311401367)
+      [Part] p1out (Pos: -28.879058837890625, -40.47844696044922, -36.96698760986328)
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -30.93546485900879, -43.68632507324219, -29.80580711364746)
+      [Seat] Seat1 (Pos: -30.911691665649414, -42.63764572143555, -29.73260498046875)
+    [Model] Chair2
+      [MeshPart] Chair (Pos: -17.276498794555664, -43.66455841064453, -29.887807846069336)
+      [Seat] Seat2 (Pos: -17.258888244628906, -42.966644287109375, -29.857189178466797)
+    [Folder] TopDownView
+      [Part] CamTwo (Pos: -18.743927001953125, -37.171058654785156, -27.7573299407959)
+      [Part] CamOne (Pos: -28.012882232666016, -37.17106628417969, -27.7573299407959)
+    [Folder] Values
+      [ObjectValue] PlayerTwo
+      [IntValue] Restart = 0
+      [IntValue] QuestionsA = 0
+      [StringValue] WaitingOn = 
+      [StringValue] InfoMSG = 
+      [BoolValue] GameEnded = false
+      [StringValue] Turn = 
+      ... +4 more
+    [Folder] FakePlayers
+    [Folder] EndPlayers
+    [Part] cameralocation (Pos: -28.20621109008789, -40.13294982910156, -43.99781036376953)
+    [Part] ChairTwoLocation (Pos: -15.161712646484375, -44.53425979614258, -28.038206100463867)
+    [Part] FinalCam (Pos: -30.347896575927734, -38.51905822753906, -39.072303771972656)
+    [Part] CamTwo (Pos: -23.56890869140625, -31.98089027404785, -24.3573055267334)
+    [Part] CamOne (Pos: -28.56890869140625, -31.94489860534668, -24.3573055267334)
+    [Part] cameralocation1 (Pos: -19.89120864868164, -40.13294982910156, -40.70880889892578)
+    ... +2 more
+  [Model] RoomTemplate2
+    [Model] Chair2
+      [MeshPart] Chair (Pos: 6.391678810119629, -43.514503479003906, -29.88780975341797)
+      [Seat] Seat2 (Pos: 6.409290313720703, -42.81658935546875, -29.857192993164062)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -7.267287254333496, -43.53627014160156, -29.805809020996094)
+      [Seat] Seat1 (Pos: -7.243514060974121, -42.48759078979492, -29.732608795166016)
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Folder] Values
+      [StringValue] InfoMSG = 
+      [StringValue] WaitingOn = 
+      [IntValue] QuestionsA = 0
+      [IntValue] Restart = 0
+      [ObjectValue] PlayerTwo
+      [IntValue] Clock = 0
+      [ObjectValue] ServerFile
+      ... +4 more
+    [Folder] TopDownView
+      [Part] CamTwo (Pos: 4.924250602722168, -37.02100372314453, -27.757333755493164)
+      [Part] CamOne (Pos: -4.344704627990723, -37.02101135253906, -27.757333755493164)
+    [Folder] FakePlayers
+    [Folder] EndPlayers
+    [Model] Spawns
+      [Part] p1out (Pos: -5.210881233215332, -40.328392028808594, -36.96698760986328)
+      [Part] p2out (Pos: 5.119105339050293, -40.341392517089844, -37.02893829345703)
+      [Part] p1 (Pos: -5.210877418518066, -40.328392028808594, -27.711008071899414)
+      [Part] AnimationPosition (Pos: -0.08088040351867676, -37.73139190673828, -27.711008071899414)
+      [Part] p2 (Pos: 5.119105339050293, -40.341392517089844, -27.772951126098633)
+    [Model] Cage
+      [Model] RefCanvas
+      [Model] PlayerCanvas2
+      [Model] PlayerCanvas1
+    [Part] cameralocation (Pos: -4.538033485412598, -39.98289489746094, -43.99781036376953)
+    [Part] ChairTwoLocation (Pos: 8.506464958190918, -44.38420486450195, -28.0382080078125)
+    [Part] FinalCam (Pos: -6.679718971252441, -38.36900329589844, -39.072303771972656)
+    [Part] CamTwo (Pos: 0.09926867485046387, -31.830839157104492, -24.357309341430664)
+    [Part] CamOne (Pos: -4.900731086730957, -31.79484748840332, -24.357309341430664)
+    [Part] cameralocation1 (Pos: 3.7769687175750732, -39.98289489746094, -40.70880889892578)
+    ... +2 more
+  [Model] SingleCanvas10
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -12.612557411193848, -43.53846740722656, -49.09087371826172)
+      [Seat] Seat1 (Pos: -12.681130409240723, -42.48978805541992, -49.125823974609375)
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: -12.613167762756348, -41.8320426940918, -45.51116180419922)
+    [Part] RoomCounterAnchor (Pos: -12.539895057678223, -40.341339111328125, -45.5916633605957)
+  [Model] SingleCanvas9
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: 49.238136291503906, -41.67026138305664, -34.34661102294922)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: 52.81784439086914, -43.376686096191406, -34.346004486083984)
+      [Seat] Seat1 (Pos: 52.8527946472168, -42.328006744384766, -34.414573669433594)
+    [Part] RoomCounterAnchor (Pos: 49.31863784790039, -40.17955780029297, -34.27334213256836)
+  [Model] SingleCanvas8
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: 49.23814010620117, -41.49331283569336, -13.34671401977539)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: 52.81783676147461, -43.19973373413086, -13.346111297607422)
+      [Seat] Seat1 (Pos: 52.852787017822266, -42.151058197021484, -13.414676666259766)
+    [Part] RoomCounterAnchor (Pos: 49.318641662597656, -40.00260543823242, -13.273448944091797)
+  [Model] SingleCanvas7
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: -49.7421875, -41.67009735107422, -34.20021057128906)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -53.321876525878906, -43.37651824951172, -34.2008171081543)
+      [Seat] Seat1 (Pos: -53.35682678222656, -42.327842712402344, -34.13224792480469)
+    [Part] RoomCounterAnchor (Pos: -49.822689056396484, -40.17938995361328, -34.27347946166992)
+  [Model] SingleCanvas6
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: -49.742183685302734, -41.8470458984375, -13.20024299621582)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -53.32188415527344, -43.553470611572266, -13.200852394104004)
+      [Seat] Seat1 (Pos: -53.356834411621094, -42.504791259765625, -13.132280349731445)
+    [Part] RoomCounterAnchor (Pos: -49.82268524169922, -40.35634231567383, -13.273513793945312)
+  [Model] SingleCanvas1
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -45.88763427734375, -43.4124641418457, -43.51568603515625)
+      [Seat] Seat1 (Pos: -45.922584533691406, -42.36378479003906, -43.44711685180664)
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: -42.307926177978516, -41.70603942871094, -43.51507568359375)
+    [Part] RoomCounterAnchor (Pos: -42.388427734375, -40.215335845947266, -43.588348388671875)
+  [Model] RoomTemplate1
+    [Model] Chair2
+      [MeshPart] Chair (Pos: -17.70659828186035, -43.46449279785156, -11.016396522521973)
+      [Seat] Seat2 (Pos: -17.688987731933594, -42.766578674316406, -10.98577880859375)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -31.365564346313477, -43.48625946044922, -10.934395790100098)
+      [Seat] Seat1 (Pos: -31.3417911529541, -42.43758010864258, -10.861193656921387)
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Folder] Values
+      [StringValue] InfoMSG = 
+      [StringValue] WaitingOn = 
+      [IntValue] QuestionsA = 0
+      [IntValue] Restart = 0
+      [ObjectValue] PlayerTwo
+      [IntValue] Clock = 0
+      [ObjectValue] ServerFile
+      ... +4 more
+    [Folder] TopDownView
+      [Part] CamTwo (Pos: -19.174026489257812, -36.97099304199219, -8.885918617248535)
+      [Part] CamOne (Pos: -28.442981719970703, -36.97100067138672, -8.885918617248535)
+    [Folder] FakePlayers
+    [Folder] EndPlayers
+    [Model] Spawns
+      [Part] p2 (Pos: -18.979171752929688, -40.2913818359375, -8.901535987854004)
+      [Part] p1out (Pos: -29.309158325195312, -40.27838134765625, -18.09557342529297)
+      [Part] p2out (Pos: -18.979171752929688, -40.2913818359375, -18.15752410888672)
+      [Part] p1 (Pos: -29.309154510498047, -40.27838134765625, -8.839592933654785)
+      [Part] AnimationPosition (Pos: -24.179157257080078, -37.68138122558594, -8.839592933654785)
+    [Model] Cage
+      [Model] RefCanvas
+      [Model] PlayerCanvas2
+      [Model] PlayerCanvas1
+    [Part] cameralocation1 (Pos: -20.321308135986328, -39.932884216308594, -21.83739471435547)
+    [Part] ChairOneLocation (Pos: -32.037803649902344, -44.33419418334961, -8.950798988342285)
+    [Part] cameralocation (Pos: -28.636310577392578, -39.932884216308594, -25.12639617919922)
+    [Part] ChairTwoLocation (Pos: -15.591812133789062, -44.33419418334961, -9.166794776916504)
+    [Part] FinalCam (Pos: -30.777996063232422, -38.318992614746094, -20.200889587402344)
+    [Part] CamTwo (Pos: -23.999008178710938, -31.780824661254883, -5.485894203186035)
+    ... +2 more
+  [Model] SingleCanvas4
+    [Model] Chair1
+      [MeshPart] Chair (Pos: 44.96927261352539, -43.52272033691406, -43.48033905029297)
+      [Seat] Seat1 (Pos: 45.00422286987305, -42.47404098510742, -43.548912048339844)
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: 41.38955307006836, -41.8162956237793, -43.48094940185547)
+    [Part] RoomCounterAnchor (Pos: 41.470054626464844, -40.325592041015625, -43.407684326171875)
+  [Model] RoomTemplate13
+    [Model] Cage
+      [Model] PlayerCanvas1
+      [Model] PlayerCanvas2
+      [Model] RefCanvas
+    [Model] Spawns
+      [Part] p2out (Pos: 29.065858840942383, -40.32978439331055, -37.20255661010742)
+      [Part] p1out (Pos: 18.735872268676758, -40.3167839050293, -37.14060592651367)
+      [Part] p2 (Pos: 29.065858840942383, -40.32978439331055, -27.94656753540039)
+      [Part] AnimationPosition (Pos: 23.865873336791992, -37.719783782958984, -27.884624481201172)
+      [Part] p1 (Pos: 18.735876083374023, -40.3167839050293, -27.884624481201172)
+    [Folder] EndPlayers
+    [Folder] FakePlayers
+    [Folder] TopDownView
+      [Part] CamOne (Pos: 19.602048873901367, -37.009403228759766, -27.930950164794922)
+      [Part] CamTwo (Pos: 28.871004104614258, -37.009395599365234, -27.930950164794922)
+    [Folder] Values
+      [BoolValue] GameEnded = false
+      [StringValue] Turn = 
+      [ObjectValue] PlayerOne
+      [IntValue] Score = 0
+      [ObjectValue] ServerFile
+      [IntValue] Clock = 0
+      [ObjectValue] PlayerTwo
+      ... +4 more
+    [Model] Chair1
+      [MeshPart] Chair (Pos: 16.679466247558594, -43.524662017822266, -29.979427337646484)
+      [Seat] Seat1 (Pos: 16.70323944091797, -42.475982666015625, -29.906227111816406)
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Model] Chair2
+      [MeshPart] Chair (Pos: 30.33843421936035, -43.50289535522461, -30.06142807006836)
+      [Seat] Seat2 (Pos: 30.356042861938477, -42.80498123168945, -30.030811309814453)
+    [Part] cameralocation (Pos: 19.408720016479492, -39.97128677368164, -44.17142868041992)
+    [Part] cameralocation1 (Pos: 27.723722457885742, -39.97128677368164, -40.88242721557617)
+    [Part] ChairTwoLocation (Pos: 32.453216552734375, -44.372596740722656, -28.21182632446289)
+    [Part] CamTwo (Pos: 24.046022415161133, -31.819229125976562, -24.530925750732422)
+    [Part] FinalCam (Pos: 17.26703453063965, -38.35739517211914, -39.24592208862305)
+    [Part] ChairOneLocation (Pos: 16.007226943969727, -44.372596740722656, -27.995830535888672)
+    ... +2 more
+  [Folder] ChatTags
+  [Folder] Lobby
+    [Model] RecentScores
+      [MeshPart] Meshes/Leaderboard_Cube (Pos: -0.023355655372142792, -37.47956085205078, -58.35517120361328)
+      [MeshPart] Meshes/Leaderboard_Cube.002 (Pos: -0.023355655372142792, -29.4929256439209, -58.1462516784668)
+      [MeshPart] Meshes/Leaderboard_Cube.001 (Pos: -0.02337055280804634, -37.47956085205078, -58.195987701416016)
+      [MeshPart] Meshes/Leaderboard_Cube.005 (Pos: -0.02337055280804634, -37.365177154541016, -58.090675354003906)
+      [MeshPart] bg (Pos: -0.02337055280804634, -37.55076599121094, -58.296913146972656)
+      [MeshPart] Meshes/Leaderboard_Cube.004 (Pos: -0.023355655372142792, -37.3624267578125, -58.30479431152344)
+    [Model] Soil
+      [Part] Part (Pos: 22.842714309692383, -44.8250732421875, 31.107662200927734)
+      [Part] Part (Pos: 73.35012817382812, -44.824981689453125, 4.71459436416626)
+      [Part] Part (Pos: 59.9500732421875, -44.82502746582031, -31.235355377197266)
+      [Part] Part (Pos: 70.7000732421875, -44.82499694824219, 2.864741086959839)
+      [Part] Part (Pos: 26.001710891723633, -44.41292190551758, 53.986080169677734)
+      [Part] Part (Pos: -16.300058364868164, -44.82505416870117, -59.774662017822266)
+      [Part] Part (Pos: -25.407468795776367, -44.8250732421875, 27.0078125)
+      ... +27 more
+    [Model] Flag
+      [Model] Flag
+      [Model] Flag
+      [Model] Flag
+      [Model] Flag
+      [Model] Flag
+      [Model] Flag
+      [Model] Flag
+      ... +3 more
+    [Model] Fence
+      [Model] Fence
+      [Model] Fence
+      [Model] Fence
+      [Model] Fence
+      [Model] Fence
+      [Model] Fence
+    [Model] Trees
+      [Model] Tree #1
+      [Model] Tree #3
+      [Model] Tree #4
+      [Model] Tree #5
+    [Model] Fountain
+      [Model] Fountain
+      [Model] Fountain
+    [Model] Plants
+      [Model] Plants
+      [Model] Plants
+      [Model] Plants
+      [Model] Plants
+    [Model] Barrel
+      [Model] Barrel
+      [Model] Barrel
+      [Model] Barrel
+      [Model] Barrel
+    [Model] MainStructure
+      [Sound] keyboard click
+      [Model] Stairs
+      [Model] Stone Wall (Second Color)
+      [Model] Roof
+      [Model] Gate
+      [Model] Leaderboard Interior
+      [Model] Stone Wall
+      ... +1 more
+    [Model] Boat
+      [Model] Model
+      [Model] Model
+      [Model] Boat Body
+      [Model] Model
+    [Model] Light Post
+      [Model] Light Post
+      [Model] Light Post
+      [Model] Light Post
+      [Model] Light Post
+      [Model] Light Post
+      [Model] Light Post
+      [Model] Light Post
+      ... +1 more
+    [Model] Small Fence
+      [Model] Small Fence
+      [Model] Small Fence
+    [Model] Faded Parts
+      [Model] Faded Parts
+      [Model] Faded Parts
+      [Model] Faded Parts
+    [Model] Ceiling Lights
+      [Model] Ceiling Light
+      [Model] Ceiling Light
+      [Model] Ceiling Light
+      [Model] Ceiling Light
+      [Model] Ceiling Light
+    [Model] SingleCanvas12
+      [Model] PlayerCanvas1
+      [Model] Chair1
+      [Part] RoomCounterAnchor (Pos: -41.82268142700195, -40.295413970947266, -3.273531198501587)
+    ... +2 more
+  [Model] PainterChestStand
+    [Model] Chest
+      [Part] Chest (Pos: -56.24223709106445, -40.8671875, 4.9783453941345215)
+    [Part] Base (Pos: -56.24223709106445, -44.36274719238281, 4.978342533111572)
+    [Part] GoldTrim (Pos: -56.24223709106445, -43.95900344848633, 4.978342533111572)
+    [Part] BuyPromptPart (Pos: -56.24223709106445, -40.95182800292969, 4.978342533111572)
+  [Model] Room2v2Template1
+    [Folder] Values
+      [IntValue] Score = 0
+      [IntValue] QuestionsA = 0
+      [StringValue] WaitingOn = 
+      [IntValue] Restart = 0
+      [StringValue] Turn = 
+      [IntValue] Clock = 0
+      [BoolValue] GameEnded = false
+      ... +4 more
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -79.48291778564453, -57.47016525268555, -5.336729049682617)
+      [Seat] Seat1 (Pos: -79.45914459228516, -56.421485900878906, -5.263526916503906)
+    [Model] Chair2
+      [Seat] Seat2 (Pos: -65.80633544921875, -56.750484466552734, -5.3881120681762695)
+      [MeshPart] Chair (Pos: -65.8239517211914, -57.44839859008789, -5.418729782104492)
+    [Model] Cage
+      [Model] PlayerCanvas1
+      [Model] RefCanvas
+      [Model] PlayerCanvas2
+    [Model] Spawns
+      [Part] p1out (Pos: -77.426513671875, -54.26228713989258, -12.497906684875488)
+      [Part] p2out (Pos: -67.09652709960938, -54.27528762817383, -12.559857368469238)
+      [Part] AnimationPosition (Pos: -72.2965087890625, -51.665287017822266, -3.2419261932373047)
+      [Part] p1 (Pos: -77.42650604248047, -54.26228713989258, -3.2419261932373047)
+      [Part] p2 (Pos: -67.09652709960938, -54.27528762817383, -3.3038692474365234)
+    [Model] Chair3
+      [MeshPart] Chair (Pos: -79.48291778564453, -57.47016525268555, 0.6632709503173828)
+      [Seat] Seat3 (Pos: -79.45914459228516, -56.421485900878906, 0.7364730834960938)
+    [Model] Chair4
+      [MeshPart] Chair (Pos: -65.8239517211914, -57.44839859008789, 0.5812702178955078)
+      [Seat] Seat4 (Pos: -65.80633544921875, -56.750484466552734, 0.6118879318237305)
+    [Folder] TopDownView
+      [Part] CamOne (Pos: -76.56033325195312, -50.95490646362305, -3.2882518768310547)
+      [Part] CamTwo (Pos: -67.2913818359375, -50.954898834228516, -3.2882518768310547)
+    [Folder] FakePlayers
+    [Folder] EndPlayers
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Part] cameralocation (Pos: -76.753662109375, -53.91679000854492, -19.528730392456055)
+    [Part] CamTwo (Pos: -72.11636352539062, -45.764732360839844, 0.11177253723144531)
+    [Part] FinalCam (Pos: -78.89534759521484, -52.30289840698242, -14.603222846984863)
+    [Part] ChairTwoLocation (Pos: -63.709163665771484, -58.31809997558594, -3.5691280364990234)
+    ... +3 more
+  [Model] AFKLeaderboardOutside
+    [MeshPart] Meshes/Leaderboard_Cube.002 (Pos: 33.50633239746094, -29.0816593170166, 25.3006591796875)
+    [MeshPart] Meshes/Leaderboard_Cube.001 (Pos: 33.54151153564453, -37.068294525146484, 25.335817337036133)
+    [MeshPart] Meshes/Leaderboard_Cube.005 (Pos: 33.467041015625, -36.95391082763672, 25.261350631713867)
+    [MeshPart] Meshes/Leaderboard_Cube (Pos: 33.65406036376953, -37.068294525146484, 25.448387145996094)
+    [MeshPart] bg (Pos: 33.61287307739258, -37.13949966430664, 25.407182693481445)
+    [MeshPart] Meshes/Leaderboard_Cube.004 (Pos: 33.618438720703125, -36.9511604309082, 25.412765502929688)
+  [Decal] Back Icon
+  [Decal] arrows
+  [Model] SingleCanvas11
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: 11.386833190917969, -41.65509033203125, -45.344581604003906)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: 11.387443542480469, -43.361515045166016, -48.924293518066406)
+      [Seat] Seat1 (Pos: 11.318870544433594, -42.312835693359375, -48.95924377441406)
+    [Part] RoomCounterAnchor (Pos: 11.460105895996094, -40.16438674926758, -45.42508316040039)
+  [Decal] Roblox fill
+    [Decal] fill
+  [Model] GroupReward
+    [Model] Treasure
+      [Part] Part (Pos: 55.329627990722656, -39.85430908203125, 13.719051361083984)
+      [Part] Part (Pos: 55.2681884765625, -39.1757926940918, 9.401025772094727)
+      [Part] Part (Pos: 51.504974365234375, -41.27309799194336, 13.719060897827148)
+      [Part] Part (Pos: 55.2681884765625, -41.766597747802734, 13.719051361083984)
+      [Part] Part (Pos: 58.35248947143555, -44.72751998901367, 18.03707504272461)
+      [Part] Part (Pos: 58.35248947143555, -41.61238098144531, 18.03707504272461)
+      [Part] Part (Pos: 58.35248947143555, -41.61238098144531, 9.401025772094727)
+      ... +10 more
+    [Model] Beam Ground
+      [Part] Part (Pos: 46.94087600708008, -45.282691955566406, 13.657357215881348)
+    [Part] UI (Pos: 48.94466018676758, -37.93990707397461, 13.87881088256836)
+    [MeshPart] Touch (Pos: 47.1768798828125, -40.008827209472656, 13.404600143432617)
+  [Folder] temp
+  [ImageLabel] ImageLabel
+    [Decal] do2
+    [Decal] do3
+  [Model] RoomTemplate7
+    [Model] Cage
+      [Model] PlayerCanvas1
+      [Model] PlayerCanvas2
+      [Model] RefCanvas
+    [Model] Spawns
+      [Part] p1out (Pos: -29.354188919067383, -40.3167839050293, 1.9494552612304688)
+      [Part] AnimationPosition (Pos: -24.22418785095215, -37.719783782958984, 11.205436706542969)
+      [Part] p2 (Pos: -19.024202346801758, -40.32978439331055, 11.14349365234375)
+      [Part] p2out (Pos: -19.024202346801758, -40.32978439331055, 1.8875045776367188)
+      [Part] p1 (Pos: -29.354185104370117, -40.3167839050293, 11.205436706542969)
+    [Folder] EndPlayers
+    [Folder] FakePlayers
+    [Folder] TopDownView
+      [Part] CamTwo (Pos: -19.219057083129883, -37.009395599365234, 11.159111022949219)
+      [Part] CamOne (Pos: -28.488012313842773, -37.009403228759766, 11.159111022949219)
+    [Folder] Values
+      [BoolValue] GameEnded = false
+      [StringValue] Turn = 
+      [ObjectValue] PlayerOne
+      [IntValue] Score = 0
+      [ObjectValue] ServerFile
+      [IntValue] Clock = 0
+      [ObjectValue] PlayerTwo
+      ... +4 more
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -31.410594940185547, -43.524662017822266, 9.110633850097656)
+      [Seat] Seat1 (Pos: -31.386821746826172, -42.475982666015625, 9.183835983276367)
+    [Model] Chair2
+      [MeshPart] Chair (Pos: -17.751628875732422, -43.50289535522461, 9.028633117675781)
+      [Seat] Seat2 (Pos: -17.73401641845703, -42.80498123168945, 9.059250831604004)
+    [Part] CamTwo (Pos: -24.044038772583008, -31.819229125976562, 14.559135437011719)
+    [Part] CamOne (Pos: -29.044038772583008, -31.78323745727539, 14.559135437011719)
+    [Part] ChairTwoLocation (Pos: -15.636842727661133, -44.372596740722656, 10.87823486328125)
+    [Part] cameralocation1 (Pos: -20.3663387298584, -39.97128677368164, -1.7923660278320312)
+    [Part] ChairOneLocation (Pos: -32.08283233642578, -44.372596740722656, 11.094230651855469)
+    [Part] FinalCam (Pos: -30.823026657104492, -38.35739517211914, -0.15586090087890625)
+    ... +2 more
+  [Decal] Back Icon
+  [Model] RoomTemplate8
+    [Model] Cage
+      [Model] PlayerCanvas1
+      [Model] PlayerCanvas2
+      [Model] RefCanvas
+    [Model] Spawns
+      [Part] AnimationPosition (Pos: -0.17915654182434082, -37.719783782958984, 11.250465393066406)
+      [Part] p1 (Pos: -5.3091535568237305, -40.3167839050293, 11.250465393066406)
+      [Part] p2out (Pos: 5.020829200744629, -40.32978439331055, 1.9325332641601562)
+      [Part] p1out (Pos: -5.309157371520996, -40.3167839050293, 1.9944839477539062)
+      [Part] p2 (Pos: 5.020829200744629, -40.32978439331055, 11.188522338867188)
+    [Folder] EndPlayers
+    [Folder] FakePlayers
+    [Folder] TopDownView
+      [Part] CamOne (Pos: -4.442980766296387, -37.009403228759766, 11.204139709472656)
+      [Part] CamTwo (Pos: 4.825974464416504, -37.009395599365234, 11.204139709472656)
+    [Folder] Values
+      [StringValue] InfoMSG = 
+      [StringValue] WaitingOn = 
+      [IntValue] QuestionsA = 0
+      [IntValue] Restart = 0
+      [IntValue] Clock = 0
+      [ObjectValue] PlayerTwo
+      [BoolValue] GameEnded = false
+      ... +4 more
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Model] Chair1
+      [MeshPart] Chair (Pos: -7.36556339263916, -43.524662017822266, 9.155662536621094)
+      [Seat] Seat1 (Pos: -7.341790199279785, -42.475982666015625, 9.228866577148438)
+    [Model] Chair2
+      [MeshPart] Chair (Pos: 6.293402671813965, -43.50289535522461, 9.073661804199219)
+      [Seat] Seat2 (Pos: 6.311014175415039, -42.80498123168945, 9.104278564453125)
+    [Part] ChairOneLocation (Pos: -8.037802696228027, -44.372596740722656, 11.139259338378906)
+    [Part] CamOne (Pos: -4.999007225036621, -31.78323745727539, 14.604164123535156)
+    [Part] cameralocation (Pos: -4.636309623718262, -39.97128677368164, -5.036338806152344)
+    [Part] cameralocation1 (Pos: 3.678692579269409, -39.97128677368164, -1.7473373413085938)
+    [Part] ChairTwoLocation (Pos: 8.408188819885254, -44.372596740722656, 10.923263549804688)
+    [Part] CamTwo (Pos: 0.0009925365447998047, -31.819229125976562, 14.604164123535156)
+    ... +2 more
+  [Model] RoomTemplate11
+    [Folder] RE
+      [RemoteEvent] Questions â­
+    [Model] Chair1
+      [MeshPart] Chair (Pos: 16.679466247558594, -43.524662017822266, 9.110631942749023)
+      [Seat] Seat1 (Pos: 16.70323944091797, -42.475982666015625, 9.183834075927734)
+    [Model] Chair2
+      [MeshPart] Chair (Pos: 30.33843421936035, -43.50289535522461, 9.028631210327148)
+      [Seat] Seat2 (Pos: 30.356042861938477, -42.80498123168945, 9.059248924255371)
+    [Folder] EndPlayers
+    [Folder] FakePlayers
+    [Folder] TopDownView
+      [Part] CamOne (Pos: 19.602048873901367, -37.009403228759766, 11.159109115600586)
+      [Part] CamTwo (Pos: 28.871004104614258, -37.009395599365234, 11.159109115600586)
+    [Folder] Values
+      [IntValue] Restart = 0
+      [IntValue] QuestionsA = 0
+      [StringValue] WaitingOn = 
+      [StringValue] InfoMSG = 
+      [BoolValue] GameEnded = false
+      [StringValue] Turn = 
+      [ObjectValue] PlayerOne
+      ... +4 more
+    [Model] Cage
+      [Model] RefCanvas
+      [Model] PlayerCanvas2
+      [Model] PlayerCanvas1
+    [Model] Spawns
+      [Part] p2out (Pos: 29.065858840942383, -40.32978439331055, 1.887502670288086)
+      [Part] p1out (Pos: 18.735872268676758, -40.3167839050293, 1.949453353881836)
+      [Part] p1 (Pos: 18.735876083374023, -40.3167839050293, 11.205434799194336)
+      [Part] p2 (Pos: 29.065858840942383, -40.32978439331055, 11.143491744995117)
+      [Part] AnimationPosition (Pos: 23.865873336791992, -37.719783782958984, 11.205434799194336)
+    [Part] ChairOneLocation (Pos: 16.007226943969727, -44.372596740722656, 11.094228744506836)
+    [Part] CamOne (Pos: 19.046022415161133, -31.78323745727539, 14.559133529663086)
+    [Part] cameralocation (Pos: 19.408720016479492, -39.97128677368164, -5.081369400024414)
+    [Part] cameralocation1 (Pos: 27.723722457885742, -39.97128677368164, -1.792367935180664)
+    [Part] ChairTwoLocation (Pos: 32.453216552734375, -44.372596740722656, 10.878232955932617)
+    [Part] CamTwo (Pos: 24.046022415161133, -31.819229125976562, 14.559133529663086)
+    ... +2 more
+  [Model] SingleCanvas3
+    [Model] PlayerCanvas1
+      [MeshPart] Meshes/asset easel lukis 12.05_Cube.004 (Pos: 41.38956069946289, -41.84617614746094, -23.481016159057617)
+    [Model] Chair1
+      [MeshPart] Chair (Pos: 44.96926498413086, -43.5526008605957, -23.480405807495117)
+      [Seat] Seat1 (Pos: 45.004215240478516, -42.50392150878906, -23.548978805541992)
+    [Part] RoomCounterAnchor (Pos: 41.470062255859375, -40.355472564697266, -23.407747268676758)
+  [Folder] ShopDisplay
+  ... +26 more
+
+â•â•â•â•â•â•â•â•â•â•â• [Players] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 14
+
+  [Player] SHAMANBEYS
+    [PlayerScripts] PlayerScripts
+      [LocalScript] Source
+        [Folder] ui
+        [Folder] modules
+      [LocalScript] OverheadNameplate
+      [LocalScript] WinsLeaderboard
+      [LocalScript] RoomCounter
+      [LocalScript] GroupReward
+      [LocalScript] SettingsPanel
+      [LocalScript] StoreScreen
+      ... +14 more
+    [PlayerGui] PlayerGui
+      [ScreenGui] RefPreload
+        [ImageLabel] ImageLabel
+        [ImageLabel] ImageLabel
+        [ImageLabel] ImageLabel
+        ... +149 more
+      [ScreenGui] ReactRoot
+        [Frame] PaintScreen
+        [Frame] HudScreen
+      [ScreenGui] AfkRoot
+      [ScreenGui] SettingsGui
+        [TextButton] Dim
+        [Frame] Panel
+      [ScreenGui] StoreGui
+        [TextButton] Dim
+        [Frame] Panel
+      [ScreenGui] SpectateGui
+        [Frame] Frame
+        [Frame] Frame
+      [ScreenGui] GroupChestGui
+      ... +2 more
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Backpack] Backpack
+    [Folder] leaderstats
+      [IntValue] Coins = 500
+      [IntValue] Wins = 0
+  [Player] CHUNKYDZ15
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Coins = 13459
+      [IntValue] Wins = 5
+    [Backpack] Backpack
+  [Player] d2l20007
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Wins = 0
+      [IntValue] Coins = 500
+    [Backpack] Backpack
+  [Player] logika_no456
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Wins = 6
+      [IntValue] Coins = 9525
+    [Backpack] Backpack
+  [Player] Veriouxy
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Backpack] Backpack
+    [Folder] leaderstats
+      [IntValue] Wins = 1
+      [IntValue] Coins = 1646
+  [Player] yL1ana_030
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Coins = 1875
+      [IntValue] Wins = 1
+    [Backpack] Backpack
+  [Player] Aerr_34
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Coins = 3546
+      [IntValue] Wins = 1
+    [Backpack] Backpack
+  [Player] Carolay0486
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Wins = 6
+      [IntValue] Coins = 11350
+    [Backpack] Backpack
+  [Player] Butterman92103
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Wins = 0
+      [IntValue] Coins = 500
+    [Backpack] Backpack
+  [Player] dagmaraxdxd
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Coins = 8650
+      [IntValue] Wins = 5
+    [Backpack] Backpack
+  [Player] Enkyria
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Backpack] Backpack
+    [Folder] leaderstats
+      [IntValue] Coins = 500
+      [IntValue] Wins = 0
+  [Player] soukcassandra
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Coins = 15750
+      [IntValue] Wins = 14
+    [Backpack] Backpack
+  [Player] ciciziia
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Coins = 500
+      [IntValue] Wins = 0
+    [Backpack] Backpack
+  [Player] hyperqais1
+    [StarterGear] StarterGear
+    [AudioDeviceInput] AudioDeviceInput
+    [Folder] leaderstats
+      [IntValue] Coins = 3750
+      [IntValue] Wins = 3
+    [Backpack] Backpack
+
+â•â•â•â•â•â•â•â•â•â•â• [CoreGui] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 41
+
+  [ScreenGui] RobloxGui
+    [Frame] ControlFrame
+      [Frame] BottomLeftControl
+        [Frame] DialogFrame
+      [Frame] BottomRightControl
+      [Frame] TopLeftControl
+      [Frame] DialogScriptMessage
+        [TextLabel] Text
+    [Folder] Modules
+      [ModuleScript] ApolloClient
+        [ModuleScript] ApolloClient
+      [Folder] Captures
+        [ModuleScript] CapturesApp
+      [ModuleScript] AbuseReportMenu
+        [Folder] Analytics
+        [Folder] Components
+        [Folder] Flags
+        [Folder] Hooks
+        [Folder] IXP
+        ... +6 more
+      [ModuleScript] ActionBindingsTab
+      [ModuleScript] AggregatedData
+      [ModuleScript] BackpackScript
+      [Folder] AvatarContextMenu
+        [ModuleScript] ContextMenuGui
+        [ModuleScript] ContextMenuItems
+        [ModuleScript] ContextMenuUtil
+        [ModuleScript] PlayerCarousel
+        [ModuleScript] SelectedCharacterIndicator
+        ... +1 more
+      [ModuleScript] AvatarEditorPrompts
+        [Folder] Actions
+        [ModuleScript] AvatarEditorPromptsPolicy
+        [Folder] Components
+        [ModuleScript] ConnectAvatarEditorServiceEvents
+        [ModuleScript] GetAssetIdsFromDescription
+        ... +9 more
+      [Folder] AvatarGeneration
+        [ModuleScript] SelfieConsent
+        [ModuleScript] SelfieQr
+      [ModuleScript] CaptureMaster
+      ... +69 more
+    [CoreScript] CoreScripts/CoreScriptErrorReporter
+    [CoreScript] CoreScripts/AppChatMain
+    [Folder] SoundManager_Sounds
+    [Folder] SoundManager_SoundGroups
+    [Folder] Sounds
+      [Sound] VolumeChangeSound
+      [Sound] VolumeChangeSound
+    [CoreScript] CoreScripts/NotificationScript2
+    [BindableEvent] SendNotificationInfo â­
+    [Frame] NotificationFrame
+    [Frame] PopupFrame
+      [TextButton] PopupAcceptButton
+      [TextButton] PopupDeclineButton
+      [TextButton] PopupOKButton
+      [TextLabel] PopupText
+    [CoreScript] CoreScripts/MainBotChatScript2
+    [CoreScript] CoreScripts/ProximityPrompt
+    [CoreScript] CoreScripts/ScreenTimeInGame
+    [Frame] ErrorPrompt
+      [UIListLayout] PromptLayout
+      [UIScale] PromptScale
+      [Frame] TitleFrame
+        [UIPadding] TitleFramePadding
+        [TextLabel] ErrorTitle
+      [Frame] SplitLine
+      [Frame] MessageArea
+        [UIPadding] MessageAreaPadding
+        [Frame] ErrorFrame
+    [CoreScript] CoreScripts/PerformanceStatsManagerScript
+    [CoreScript] CoreScripts/PlayerRagdoll
+    [CoreScript] CoreScripts/PlayerBillboards
+    [ScreenGui] ScreenGui
+      [StyleLink] StyleSheet
+      [Frame] FoundationCursorContainer
+    [CoreScript] CoreScripts/BlockPlayerPrompt
+    ... +41 more
+  [LocalizationTable] CoreScriptLocalization
+  [Frame] FoundationCursorContainer
+  [ScreenGui] InGameFullscreenTitleBarScreen
+    [Frame] TriggerArea
+    [Frame] Bar
+      [Frame] BarFrame
+        [Frame] ThreeSectionBar
+      [Frame] ShadowFrame
+        [UIGradient] UIGradient
+  [ScreenGui] RobloxPromptGui
+    [Frame] promptOverlay
+  [ScreenGui] ScreenshotsCarousel
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [ScreenGui] CaptureManager
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [ScreenGui] CaptureOverlay
+    [StyleLink] StyleSheet
+    [Frame] CaptureOverlay
+    [Frame] FoundationCursorContainer
+  [ScreenGui] MomentsCreationFlow
+  [ScreenGui] RobloxNetworkPauseNotification
+  [Folder] ToastNotification
+    [StyleLink] StyleSheet
+    [ScreenGui] ToastNotificationWrapper
+      [Frame] Toast
+        [Frame] SwipeDetector
+    [Frame] FoundationCursorContainer
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 5 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+  [ScreenGui] TeleportEffectGui
+    [Frame] TopFrame
+    [Frame] TopFrame
+    [Frame] SpinnerContainer
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] SpinnerRobloxTilt
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+    [TextLabel] TextLabel
+  [Folder] AdGuiInteractivityControls
+  [ScreenGui] ImmersiveBrandedAds
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [ScreenGui] RewardedVideoAdPlayer
+  [Folder] GameInvite
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [Folder] BulkPurchaseApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [ScreenGui] BulkPurchaseApp
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [Folder] InExperienceTransferApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [Folder] CancelSubscriptionApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [Folder] CommercePurchaseApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [ScreenGui] SystemScrim
+  [Folder] InExperienceDetailsPromptApp
+    [ScreenGui] InExperienceDetailsPromptOverlay
+      [StyleLink] StyleSheet
+      [Frame] FoundationCursorContainer
+  [ScreenGui] _FullscreenTestGui
+  [ScreenGui] _DeviceTestGui
+  [ScreenGui] FoundationOverlay
+    [StyleLink] FoundationStyleLink
+    [Frame] SafeAreaFrame
+  [Folder] SocialContextToast
+    [StyleLink] StyleSheet
+    [ScreenGui] SocialContextToastGUI
+    [Frame] FoundationCursorContainer
+  [ScreenGui] InExperienceInterventionApp
+    [StyleLink] StyleSheet
+    [Frame] StyleProvider
+      [Frame] EventReceiver
+    [Frame] FoundationCursorContainer
+    [Frame] LayerCollectorChildRef
+  [ScreenGui] PurchasePromptApp
+    [StyleLink] StyleSheet
+    [Folder] Children
+      [Frame] ProductPurchaseContainer
+        [Frame] Animator
+      [Folder] EventConnections
+    [Frame] FoundationCursorContainer
+      [Frame] 0 8 5 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+  [Folder] PublishAssetPrompt
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [Folder] AppChat
+    [Folder] InExperienceAppChatProviders
+      [Folder] PageWrapper
+        [StyleLink] StyleSheet
+        [Frame] FoundationCursorContainer
+  [ScreenGui] ExperienceChat
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+      [Frame] Invisible Color
+      [Frame] RoundedSlot Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+    [ScreenGui] bubbleChat
+      [BillboardGui] BubbleChat_1030141305
+      [BillboardGui] BubbleChat_10893520157
+      [BillboardGui] BubbleChat_7832695282
+      [BillboardGui] BubbleChat_4458734821
+        [Frame] BubbleChatList
+      [BillboardGui] BubbleChat_5433169363
+        [Frame] BubbleChatList
+      [BillboardGui] BubbleChat_1916132328
+        [Frame] BubbleChatList
+      [BillboardGui] BubbleChat_681626266
+      [BillboardGui] BubbleChat_81429958
+      [BillboardGui] BubbleChat_1902530397
+      [BillboardGui] BubbleChat_516753756
+      ... +4 more
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] appLayout
+      [Frame] chatInputBar
+        [UIListLayout] Layout
+        [Frame] FillArea
+        [Frame] PresetButton
+      [ImageLabel] topBorder
+        [UISizeConstraint] uiSizeConstraint
+      [UIListLayout] layout
+      [UISizeConstraint] uiSizeConstraint
+      [ImageLabel] bottomBorder
+        [UISizeConstraint] uiSizeConstraint
+      [Frame] chatWindow
+        [Frame] hoverLayer
+        [UISizeConstraint] uiSizeConstraint
+        [Frame] contentFrame
+      [Frame] channelBar
+        [Frame] HorizontalBar
+      [Frame] topPadding
+    [Frame] InvisibleContainer
+  [Folder] AvatarEditorPromptsApp
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [StyleLink] StyleSheet
+  [Frame] CursorContainer
+  [Folder] OnRootedListener
+  [ScreenGui] HeadsetDisconnectedDialog
+    [Frame] Overlay
+      [ImageButton] Alert
+        [ImageLabel] AlertContents
+  [ScreenGui] ShortcutBar
+    [Frame] ShortcutBarWrapper
+      [UIListLayout] Layout
+  [Folder] TopBarApp
+    [StyleLink] StyleSheet
+    [ScreenGui] TopBarScrim
+      [Frame] TopBarScrim
+    [ScreenGui] TopBarApp
+      [Frame] MenuIconHolder
+        [Frame] CursorContainer
+        [Folder] OnRootedListener
+        [Frame] TriggerPoint
+      [Frame] UnibarLeftFrame
+        [Frame] UnibarMenu
+        [Frame] HealthBar
+        [Frame] StackedElements
+        [UIPadding] Padding
+      [Frame] TopBarFrame
+        [Frame] LeftFrame
+      [Frame] SongbirdReportAudioFrame
+      [Frame] FullScreenFrame
+        [ImageLabel] HurtOverlay
+    [Frame] FoundationCursorContainer
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 5 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] SkinToneCircle Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+  [ScreenGui] FoundationOverlay
+    [StyleLink] FoundationStyleLink
+    [Frame] SafeAreaFrame
+  [ScreenGui] DevConsoleMaster
+    [Frame] DevConsoleWindow
+      [ImageButton] ResizeButton
+      [Frame] DevConsoleUI
+        [UIListLayout] UIListLayout
+        [ImageButton] TopBar
+  ... +1 more
+
+â•â•â•â•â•â•â•â•â•â•â• [CorePackages] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 2
+
+  [Folder] Packages
+    [Folder] _Index
+      [Folder] ApolloClient
+      [Folder] AvatarExperienceDeps
+      [Folder] Boolean
+      [Folder] BuilderIcons
+      [Folder] Collections
+      [Folder] CollisionMatchers2D
+      [Folder] Console
+      [Folder] Cryo
+      [Folder] Dash
+      [Folder] DataLoader
+      ... +121 more
+    [ModuleScript] ApolloClient
+    [ModuleScript] AvatarExperienceDeps
+    [ModuleScript] BuilderIcons
+    [ModuleScript] Cryo
+    [ModuleScript] Dash
+    [ModuleScript] DataLoader
+    [ModuleScript] EmojiList
+    [ModuleScript] enumerate
+    [ModuleScript] FitFrame
+    [ModuleScript] FocusBehaviors
+    [ModuleScript] Foundation
+    [ModuleScript] FoundationCloudAssets
+    [ModuleScript] FoundationImages
+    [ModuleScript] GraphQL
+    [ModuleScript] GraphqlToolsUtils
+    [ModuleScript] HttpRequest
+    [ModuleScript] InGameMenuDependencies
+    [ModuleScript] InlineLayout
+    [ModuleScript] InputHandlers
+    ... +57 more
+  [Folder] Workspace
+    [Folder] Packages
+      [Folder] _Index
+      [Folder] _Workspace
+      [ModuleScript] Achievements
+      [ModuleScript] AdGuiInteractivity
+      [ModuleScript] AdPlayer
+      [ModuleScript] AdsEudsa
+      [ModuleScript] AmpUpsell
+      [ModuleScript] Analytics
+      [ModuleScript] AppBlox
+      [ModuleScript] AppChat
+      ... +168 more
+
+â•â•â•â•â•â•â•â•â•â•â• [Lighting] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 5
+
+  [DepthOfFieldEffect] DepthOfField
+  [BloomEffect] Bloom
+  [Atmosphere] Atmosphere
+  [SunRaysEffect] SunRays
+  [Sky] Sky
+
+â•â•â•â•â•â•â•â•â•â•â• [MaterialService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [NetworkClient] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 1
+
+  [ClientReplicator] ClientReplicator
+
+â•â•â•â•â•â•â•â•â•â•â• [PlatformLibraries] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [ReplicatedFirst] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [ReplicatedStorage] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 21
+
+  [ModuleScript] CashProductCatalogue
+  [ModuleScript] DailyMissionConfig
+  [ModuleScript] FeedbackConfig
+  [ModuleScript] GamepassCatalogue
+  [ModuleScript] GiftConfig
+  [ModuleScript] HunterPowerCatalogue
+  [ModuleScript] MonsterSkinCatalogue
+  [ModuleScript] OneRoundBoostCatalogue
+  [ModuleScript] TeleportationConfig
+  [ModuleScript] wally
+  [ModuleScript] wally
+  [ModuleScript] RankConfig
+  [ModuleScript] GalleryCatalogue
+  [ModuleScript] PackCatalogue
+  [Beam] PathBeam
+  [Folder] Packages
+    [ModuleScript] Charm
+    [ModuleScript] FootstepModule2
+    [ModuleScript] Knit
+    [ModuleScript] Pathfinding
+    [ModuleScript] ProfileStore
+    [ModuleScript] React
+    [ModuleScript] ReactRoblox
+    [ModuleScript] Ripple
+    [ModuleScript] Signal
+    [ModuleScript] SimplePath
+    [ModuleScript] UILabs
+    [Folder] _Index
+      [Folder] jsdotlua_shared@17.2.1
+        [ModuleScript] luau-polyfill
+        [ModuleScript] shared
+      [Folder] jsdotlua_string@1.2.7
+        [ModuleScript] es7-types
+        [ModuleScript] number
+        [ModuleScript] string
+      [Folder] jsdotlua_symbol-luau@1.0.1
+        [ModuleScript] symbol-luau
+      [Folder] jsdotlua_timers@1.2.7
+        [ModuleScript] collections
+        [ModuleScript] timers
+      [Folder] littensy_charm@0.10.0
+        [ModuleScript] charm
+      [Folder] jsdotlua_scheduler@17.2.1
+        [ModuleScript] luau-polyfill
+        [ModuleScript] scheduler
+        [ModuleScript] shared
+      [Folder] littensy_ripple@0.10.2
+        [ModuleScript] ripple
+      [Folder] jsdotlua_number@1.2.7
+        [ModuleScript] number
+      [Folder] jsdotlua_promise@3.5.2
+        [ModuleScript] promise
+      [Folder] jsdotlua_react-reconciler@17.2.1
+        [ModuleScript] luau-polyfill
+        [ModuleScript] promise
+        [ModuleScript] react-reconciler
+        [ModuleScript] react
+        [ModuleScript] scheduler
+        [ModuleScript] shared
+      [Folder] jsdotlua_react-roblox@17.2.1
+        [ModuleScript] luau-polyfill
+        [ModuleScript] react-reconciler
+        [ModuleScript] react-roblox
+        [ModuleScript] react
+        [ModuleScript] scheduler
+        [ModuleScript] shared
+      [Folder] jsdotlua_react@17.2.1
+        [ModuleScript] luau-polyfill
+        [ModuleScript] react
+        [ModuleScript] shared
+      [Folder] sleitnick_signal@1.2.1
+        [ModuleScript] signal
+      [Folder] sleitnick_option@1.0.4
+        [ModuleScript] option
+      [Folder] sleitnick_knit@1.4.7
+        [ModuleScript] Comm
+        [ModuleScript] knit
+        [ModuleScript] Promise
+      ... +10 more
+  [Folder] PaintBetter
+    [ModuleScript] ReferenceImages
+    [ModuleScript] ReferenceScore
+    [Sound] TickSFX V4
+    [Sound] 3-2-1 Countdown
+    [Sound] Stamp Sound
+    [Sound] winner!
+    [Sound] Grieg - In the Hall of the Mountain King
+    [Sound] Gymnopedie No. 1
+    [Sound] Nocturne in E-Flat Major, Op. 9, No. 2
+    [ModuleScript] RarityConfig
+    [ModuleScript] ReferenceDifficulty
+    [ModuleScript] DailyChallengeConfig
+    [ModuleScript] MonetizationConfig
+    [Sound] cash-register-sound-fx
+    [ModuleScript] RewardConfig
+    [ModuleScript] RealisticImages
+    [ModuleScript] DailyStreakConfig
+    [Decal] Paint Bucket
+    [RemoteEvent] PB_Net â­
+    [Decal] Streak Icon
+    [Decal] Winners
+    [Decal] light pen
+    [BindableEvent] PB_PreviewWall â­
+    [BindableEvent] PB_GuideDone â­
+    [BindableEvent] PB_OpenStore â­
+    [BindableEvent] PB_Spectate â­
+    [BindableEvent] PB_RealGameFinished â­
+  [Folder] Source
+    [ModuleScript] CommonNecessities
+      [TextLabel] TextLabel
+        [LocalScript] LocalScript
+    [ModuleScript] formattingNumber
+  [RemoteFunction] GetGlobalWins â­
+  [RemoteEvent] PB_AdminReply â­
+  [RemoteFunction] GetGlobalAfkMinutes â­
+
+â•â•â•â•â•â•â•â•â•â•â• [StarterGui] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [StarterPack] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [StarterPlayer] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 2
+
+  [StarterPlayerScripts] StarterPlayerScripts
+    [LocalScript] Source
+      [Folder] ui
+      [Folder] modules
+    [LocalScript] OverheadNameplate
+    [LocalScript] WinsLeaderboard
+    [LocalScript] RoomCounter
+    [LocalScript] GroupReward
+    [LocalScript] SettingsPanel
+    [LocalScript] StoreScreen
+    [LocalScript] MusicPlayer
+    [LocalScript] VIPPrompt
+    [LocalScript] WelcomeMessage
+    [LocalScript] MatchmakingFrame
+    [LocalScript] SpectateController
+    [LocalScript] FavoritePrompt
+    [LocalScript] AdminReply
+    [LocalScript] AfkLeaderboard
+    [LocalScript] ArtFestivalEffects
+    [LocalScript] PainterChestPrompt
+    [LocalScript] OwnerChatTag
+    [LocalScript] RbxCharacterSounds
+      [ModuleScript] AtomicBinding
+    [ModuleScript] PlayerModule
+      [ModuleScript] ControlModule
+      [ModuleScript] CameraModule
+      [Folder] CommonUtils
+    ... +1 more
+  [StarterCharacterScripts] StarterCharacterScripts
+
+â•â•â•â•â•â•â•â•â•â•â• [Teams] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [SoundService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 42
+
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [AudioDeviceOutput] AudioDeviceOutput
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  [Sound] Sound
+  ... +12 more
+
+â•â•â•â•â•â•â•â•â•â•â• [Chat] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [TextChatService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 9
+
+  [Folder] TextChatCommands
+    [TextChatCommand] RBXConsoleCommand
+    [TextChatCommand] RBXHelpCommand
+    [TextChatCommand] RBXClearCommand
+    [TextChatCommand] RBXWhisperCommand
+    [TextChatCommand] RBXTeamCommand
+    [TextChatCommand] RBXEmoteCommand
+    [TextChatCommand] RBXVersionCommand
+    [TextChatCommand] RBXUnmuteCommand
+    [TextChatCommand] RBXMuteCommand
+  [ChannelTabsConfiguration] ChannelTabsConfiguration
+  [ChatWindowConfiguration] ChatWindowConfiguration
+  [ChatInputBarConfiguration] ChatInputBarConfiguration
+  [BubbleChatConfiguration] BubbleChatConfiguration
+    [UICorner] UICorner
+    [UIPadding] UIPadding
+    [UIGradient] UIGradient
+    [ImageLabel] ImageLabel
+  [Folder] TextChannels
+    [TextChannel] RBXSystem
+      [TextSource] yL1ana_030
+      [TextSource] Carolay0486
+      [TextSource] CHUNKYDZ15
+      [TextSource] Aerr_34
+      [TextSource] d2l20007
+      [TextSource] logika_no456
+      [TextSource] Veriouxy
+      [TextSource] Butterman92103
+      [TextSource] SHAMANBEYS
+      [TextSource] dagmaraxdxd
+      ... +4 more
+    [TextChannel] RBXGeneral
+      [TextSource] yL1ana_030
+      [TextSource] Carolay0486
+      [TextSource] CHUNKYDZ15
+      [TextSource] Aerr_34
+      [TextSource] d2l20007
+      [TextSource] logika_no456
+      [TextSource] Veriouxy
+      [TextSource] Butterman92103
+      [TextSource] SHAMANBEYS
+      [TextSource] dagmaraxdxd
+      ... +4 more
+  [TextChatCommand] givecoinsCommand
+  [TextChatCommand] givewinsCommand
+  [TextChatCommand] setstreakCommand
+
+â•â•â•â•â•â•â•â•â•â•â• [VoiceChatService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [LocalizationService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [TestService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [VRService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [AchievementService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [AdService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• â­ ALL REMOTES (ReplicatedStorage) â­ â•â•â•â•â•â•â•â•â•â•â•
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyChallengeService.RF.UseRetryCharge
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyChallengeService.RF.SubmitResult
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyChallengeService.RF.GetState
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyChallengeService.RF.StartChallenge
+[RE] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyChallengeService.RE.Payout
+[RE] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyChallengeService.RE.RetryGranted
+[RE] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyChallengeService.RE.Update
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.AfkService.RF.LeaveAfk
+[RE] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.AfkService.RE.Left
+[RE] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.AfkService.RE.Entered
+[RE] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.AfkService.RE.Paid
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DailyStreakService.RF.ClaimReward
+[RE] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RP.PlayerData
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.PurchasePack
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.DeletePainting
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.EquipPack
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.SetData
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.GetData
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.ResetData
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.SavePainting
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.AddBlockedPlayer
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.EquipGallery
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.ClaimGroupChestReward
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.GetRefPaintings
+[RF] ReplicatedStorage.Packages._Index.sleitnick_knit@1.4.7.knit.Services.DataService.RF.PurchaseGallery
+[RE] ReplicatedStorage.PaintBetter.PB_Net
+[RF] ReplicatedStorage.GetGlobalWins
+[RE] ReplicatedStorage.PB_AdminReply
+[RF] ReplicatedStorage.GetGlobalAfkMinutes
+
+TOTAL REMOTES: 9 RE + 20 RF + 5 BE
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+SCAN COMPLETE âœ“
+Total Lines: 1371
+Services Scanned: 23
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
