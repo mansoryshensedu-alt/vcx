@@ -1,0 +1,1937 @@
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+ğŸ” ALL SERVICES DEEP SCANNER
+Game: Ugc
+PlaceId: 71706515477118
+Time: 06:11:15
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+â•â•â•â•â•â•â•â•â•â•â• [Workspace] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 14
+
+  [Camera] Camera
+  [Folder] Tmp
+  [Model] World1
+    [Model] Floor2
+      [Model] LadderPoint
+      [Folder] GoldPoints
+      [Folder] GuideTriggerPoints
+      [Folder] Decoration
+    [Model] Floor3
+      [Folder] Decoration
+      [Folder] WinPoints
+      [Folder] GuideTriggerPoints
+      [Folder] GoldPoints
+      [Model] LadderPoint
+      [Folder] DiamondPoints
+    [Model] Floor1
+      [Part] StartPoint (Pos: 0, 7, 0)
+      [Folder] GoodsPoints
+      [Folder] ShoesPoints
+      [Folder] GoldPoints
+      [Folder] PetPoints
+      [Folder] EvolvePoints
+      [Folder] Decoration
+      ... +5 more
+    [Model] Floor4
+      [Folder] WinPoints
+      [Folder] GuideTriggerPoints
+      [Model] LadderPoint
+      [Folder] Decoration
+      [Folder] GoldPoints
+    [Model] Floor5
+      [Folder] DiamondPoints
+      [Model] LadderPoint
+      [Folder] Decoration
+      [Folder] UpgradePoints
+      [Folder] WinPoints
+      [Folder] GoldPoints
+      [Folder] GoldBrickPoints
+    [Model] Floor6
+      [Model] LadderPoint
+      [Folder] Decoration
+      [Folder] GoldBrickPoints
+      [Folder] GoldPoints
+      [Folder] WinPoints
+      [Folder] UpgradePoints
+    [Model] Floor7
+      [Folder] GoldPoints
+      [Folder] Decoration
+      [Folder] DiamondPoints
+      [Folder] GoldBrickPoints
+      [Folder] WinPoints
+      [Folder] UpgradePoints
+      [Model] LadderPoint
+    [Model] Floor8
+      [Folder] Decoration
+      [Model] LadderPoint
+      [Folder] WinPoints
+      [Folder] GoldPoints
+      [Folder] UpgradePoints
+      [Folder] GoldBrickPoints
+      [Folder] DiamondPoints
+      ... +2 more
+    [Model] Floor9
+      [Folder] Decoration
+      [Folder] GoldPoints
+      [Model] LadderPoint
+      [Folder] WinPoints
+      [Folder] GoldBrickPoints
+      [Folder] UpgradePoints
+    [Model] Floor10
+      [Folder] GoldPoints
+      [Folder] ChargePoints
+      [Folder] Decoration
+      [Folder] WinPoints
+      [Folder] BadgePoints
+      [Folder] UpgradePoints
+      [Folder] DiamondPoints
+      ... +5 more
+  [Terrain] Terrain (Pos: 0, 0, 0)
+  [Model] Ayden67454
+    [Folder] Animations
+      [Animation] Idle
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+      [Animation] Jump
+      [Animation] Jump2
+    [ObjectValue] AnimSaves
+    [NumberValue] ShoesScale = 0.8
+    [StringValue] ActorId = Character_11259479052_2
+    [Folder] Shoes
+      [MeshPart] RightShoe (Pos: 52.79277038574219, 150.20162963867188, 50.2524528503418)
+      [MeshPart] LeftShoe (Pos: 52.423072814941406, 150.1405487060547, 47.712974548339844)
+    [Model] Accessory (cartoony crown_Var1)
+      [MeshPart] Handle (Pos: 53.18860626220703, 155.1560821533203, 49.667171478271484)
+    [Model] Accessory (Black Messy Emo Hair W/ Black&Gold Captain Hat)
+      [MeshPart] Handle (Pos: 53.091365814208984, 154.4971923828125, 48.6839599609375)
+    [NumberValue] CurrentHeight = 147.51402282714844
+    [Humanoid] Humanoid (WS=16 JP=50 HP=100)
+      [Animator] Animator
+    [Folder] Pets
+      [Model] 1_1_2
+    [MeshPart] LeftLowerArm (Pos: 52.50470733642578, 152.28919982910156, 47.68238830566406)
+    [MeshPart] RightFoot (Pos: 52.86739730834961, 151.11029052734375, 49.9360237121582)
+    [MeshPart] Body (Pos: 52.29432678222656, 153.34890747070312, 48.6967887878418)
+    [Part] HumanoidRootPart (Pos: 52.11065673828125, 153.43301391601562, 48.8338623046875)
+    [MeshPart] Head (Pos: 52.4247932434082, 155.05783081054688, 48.15498352050781)
+    ... +8 more
+  [Model] barbiecas54
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.4
+    [NumberValue] CurrentHeight = 259.60906982421875
+    [Folder] Pets
+      [Model] 1_1_3
+      [Model] 1_2_2
+      [Model] 1_1_1
+    [StringValue] ActorId = Character_7755972490_1
+    [Folder] Shoes
+      [MeshPart] LeftShoe (Pos: 48.64677429199219, 261.800048828125, -31.91823959350586)
+      [MeshPart] RightShoe (Pos: 48.0957145690918, 262.0655212402344, -31.9105281829834)
+    [Model] Brows
+      [MeshPart] Handle (Pos: 48.39832305908203, 266.28582763671875, -31.92401695251465)
+    [Humanoid] Humanoid (WS=16 JP=42.284725189208984 HP=100)
+      [Animator] Animator
+    [MeshPart] RightFoot (Pos: 48.090728759765625, 264.0593566894531, -31.571285247802734)
+    [MeshPart] RightUpperLeg (Pos: 47.84470748901367, 265.7348327636719, -32.09980392456055)
+    [MeshPart] RightUpperArm (Pos: 47.525352478027344, 266.66259765625, -32.21162796020508)
+    [MeshPart] LeftUpperArm (Pos: 49.24878692626953, 266.97625732421875, -32.15589141845703)
+    [MeshPart] LeftLowerLeg (Pos: 48.6574592590332, 265.7544860839844, -31.565698623657227)
+    [MeshPart] Head (Pos: 48.39406967163086, 269.2523498535156, -31.590354919433594)
+    ... +6 more
+  [Model] Preppyunicorn662
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.8
+    [StringValue] ActorId = Character_9976213498_3
+    [Folder] Shoes
+      [MeshPart] RightShoe (Pos: -52.06739807128906, 227.4835662841797, 48.73612594604492)
+      [MeshPart] LeftShoe (Pos: -50.057064056396484, 227.41912841796875, 48.6214714050293)
+    [Folder] Pets
+      [Model] 1_1_1
+      [Model] 1_1_3
+      [Model] 1_1_3
+    [Model] Accessory (Meshes/ears_with_hornAccessory)
+      [MeshPart] Handle (Pos: -50.9188117980957, 229.8006591796875, 50.89137268066406)
+    [Model] Accessory (Glasses)
+      [MeshPart] Handle (Pos: -50.931304931640625, 228.91941833496094, 51.04288101196289)
+    [Model] Accessory (jadie)
+      [MeshPart] Handle (Pos: -50.93598175048828, 228.38058471679688, 50.58673858642578)
+    [Humanoid] Humanoid (WS=16 JP=48.826194763183594 HP=100)
+      [Animator] Animator
+    [NumberValue] CurrentHeight = 221.20254516601562
+    [MeshPart] LeftUpperLeg (Pos: -50.31325912475586, 228.09170532226562, 48.68107223510742)
+    [MeshPart] LeftUpperArm (Pos: -50.339805603027344, 228.2895965576172, 49.99985122680664)
+    [MeshPart] LeftFoot (Pos: -50.1104621887207, 227.1693878173828, 48.73930740356445)
+    [MeshPart] RightLowerArm (Pos: -51.630821228027344, 227.64566040039062, 50.04916000366211)
+    ... +11 more
+  [Model] Jo_sep21
+    [NumberValue] CurrentHeight = 221.99490356445312
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.4
+    [StringValue] ActorId = Character_4074817486_2
+    [Folder] Shoes
+      [MeshPart] LeftShoe (Pos: -1.4888889789581299, 227.04400634765625, -35.5384635925293)
+      [MeshPart] RightShoe (Pos: -1.588083267211914, 227.1345672607422, -36.22744369506836)
+    [Folder] Pets
+      [Model] 1_2_2
+      [Model] 1_2_1
+      [Model] 1_2_1
+    [Model] Accessory (Tag)
+      [MeshPart] Handle (Pos: -1.2174115180969238, 231.95452880859375, -36.05575180053711)
+    [Humanoid] Humanoid (WS=16 JP=42.284725189208984 HP=100)
+      [Animator] Animator
+    [MeshPart] RightUpperLeg (Pos: -0.9407809972763062, 230.44268798828125, -36.462066650390625)
+    [MeshPart] RightLowerLeg (Pos: -1.3441274166107178, 229.8719940185547, -36.17958450317383)
+    [MeshPart] LeftFoot (Pos: -1.5684345960617065, 229.74942016601562, -35.60429763793945)
+    [MeshPart] RightFoot (Pos: -1.6194311380386353, 230.05148315429688, -36.152950286865234)
+    [MeshPart] Head (Pos: -1.361898422241211, 233.5654754638672, -35.79076385498047)
+    [MeshPart] RightUpperArm (Pos: -0.8661645650863647, 232.3639373779297, -36.84079360961914)
+    ... +6 more
+  [Model] venomshank690
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.4
+    [StringValue] ActorId = Character_8327372539_2
+    [Folder] Shoes
+      [MeshPart] LeftShoe (Pos: -0.6740384697914124, 230.89576721191406, -33.03561782836914)
+      [MeshPart] RightShoe (Pos: -0.6432212591171265, 230.74256896972656, -32.340267181396484)
+    [Folder] Pets
+      [Model] 1_3_1
+      [Model] 1_2_1
+      [Model] 1_2_4
+    [NumberValue] CurrentHeight = 221.33538818359375
+    [Humanoid] Humanoid (WS=16 JP=42.284725189208984 HP=100)
+      [Animator] Animator
+    [MeshPart] Body (Pos: -1.4539055824279785, 231.4024200439453, -32.61163330078125)
+    [Part] HumanoidRootPart (Pos: -0.8203250765800476, 230.2638702392578, -32.6958122253418)
+    [MeshPart] Beak (Pos: -0.1053459644317627, 232.22702026367188, -32.775550842285156)
+    [MeshPart] RightLowerLeg (Pos: -0.8441430330276489, 228.85755920410156, -32.38747024536133)
+    [MeshPart] RightUpperArm (Pos: -1.0385496616363525, 230.33999633789062, -31.633760452270508)
+    [MeshPart] RightUpperLeg (Pos: -1.1086065769195557, 229.3126678466797, -32.110069274902344)
+    [MeshPart] LeftUpperArm (Pos: -1.2712750434875488, 229.8895721435547, -33.682804107666016)
+    ... +5 more
+  [Model] Viccas_5
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.8
+    [StringValue] ActorId = Character_10222305620_3
+    [Folder] Shoes
+      [MeshPart] LeftShoe (Pos: -53.40595245361328, 226.66049194335938, 44.80182647705078)
+      [MeshPart] RightShoe (Pos: -52.824119567871094, 226.62840270996094, 43.21021270751953)
+    [Folder] Pets
+      [Model] 1_1_2
+      [Model] 1_1_1
+    [Model] Accessory (Simple Doll Blush)
+      [MeshPart] Handle (Pos: -54.468482971191406, 229.72412109375, 43.58389663696289)
+    [Model] Accessory (Simple Essential Headband (Yellow))
+      [MeshPart] Handle (Pos: -54.61112976074219, 230.5199432373047, 43.53782272338867)
+    [Model] Accessory (â™¡ Wispy Loose Braided Hair w/ White Bows Blonde)
+      [MeshPart] Handle (Pos: -54.46401596069336, 229.31179809570312, 43.51473617553711)
+    [NumberValue] CurrentHeight = 225.67869567871094
+    [Humanoid] Humanoid (WS=16 JP=48.826194763183594 HP=100)
+      [Animator] Animator
+    [MeshPart] LeftLowerArm (Pos: -54.559356689453125, 229.062255859375, 44.18623352050781)
+    [MeshPart] RightEar (Pos: -53.65445327758789, 232.10203552246094, 43.33128356933594)
+    [MeshPart] LeftEar (Pos: -53.95509719848633, 232.27203369140625, 44.246360778808594)
+    [MeshPart] Head (Pos: -54.43121337890625, 231.294677734375, 43.5960693359375)
+    ... +11 more
+  [Model] liammonkey381
+    [Humanoid] Humanoid (WS=16 JP=50 HP=100)
+      [Animator] Animator
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.3
+    [StringValue] ActorId = Character_6154738986_1
+    [Folder] Pets
+    [NumberValue] CurrentHeight = 51.44110870361328
+    [Model] Accessory (MeshPartAccessory)
+      [MeshPart] Handle (Pos: 44.71213150024414, 58.929710388183594, 48.46535873413086)
+    [Model] Accessory (Messy Hair w/ Y2k Punk Visor)
+      [MeshPart] Handle (Pos: 44.65147399902344, 59.41853332519531, 48.72140884399414)
+    [MeshPart] RightLowerArm2 (Pos: 43.53921127319336, 57.58836364746094, 48.21596908569336)
+    [MeshPart] RightUpperArm2 (Pos: 44.11078643798828, 58.068031311035156, 48.37196350097656)
+    [MeshPart] RightWing (Pos: 44.208351135253906, 58.14461135864258, 47.222225189208984)
+    [MeshPart] Body (Pos: 44.587337493896484, 58.16311264038086, 47.720211029052734)
+    [MeshPart] LeftUpperLeg (Pos: 45.0261344909668, 58.62138748168945, 47.82904815673828)
+    [MeshPart] LeftLowerArm (Pos: 45.690223693847656, 58.25752258300781, 49.02975845336914)
+    ... +13 more
+  [Model] SHAMANBEYS
+    [Humanoid] Humanoid (WS=16 JP=50 HP=100)
+      [Animator] Animator
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.3
+    [StringValue] ActorId = Character_4458734821_1
+    [Folder] Pets
+    [NumberValue] CurrentHeight = 0
+    [MeshPart] LeftFoot (Pos: -9.911796569824219, 2.9913532733917236, 18.39680290222168)
+    [Part] HumanoidRootPart (Pos: -11.080350875854492, 3.644333839416504, 17.701892852783203)
+    [MeshPart] RightLowerLeg (Pos: -10.3836030960083, 3.4691622257232666, 16.88753890991211)
+    [MeshPart] RightFoot (Pos: -10.59585189819336, 2.426534414291382, 16.846717834472656)
+    [MeshPart] LeftLowerArm (Pos: -11.981783866882324, 2.9108026027679443, 18.87105369567871)
+    [MeshPart] LeftUpperArm (Pos: -12.363603591918945, 2.9523894786834717, 18.32025909423828)
+    [MeshPart] LeftUpperArm2 (Pos: -11.811436653137207, 2.5471909046173096, 18.32771873474121)
+    [MeshPart] RightLowerArm2 (Pos: -12.031488418579102, 1.8513944149017334, 16.730165481567383)
+    ... +12 more
+  [Model] NoahBearMath
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [ObjectValue] AnimSaves
+    [Humanoid] Humanoid (WS=16 JP=54.5893440246582 HP=65.88285064697266)
+      [Animator] Animator
+    [NumberValue] ShoesScale = 0.5
+    [StringValue] ActorId = Character_7415256992_1
+    [Folder] Shoes
+      [MeshPart] RightShoe (Pos: -29.330913543701172, 57.22792053222656, -47.19610595703125)
+      [MeshPart] LeftShoe (Pos: -30.48563003540039, 57.36082077026367, -47.37757110595703)
+    [Folder] Pets
+      [Model] 1_3_1
+      [Model] 1_3_2
+      [Model] 1_3_1
+    [NumberValue] CurrentHeight = 50.545745849609375
+    [MeshPart] RightUpperLeg (Pos: -29.353078842163086, 58.086490631103516, -48.51948165893555)
+    [MeshPart] RightFoot (Pos: -29.223283767700195, 58.69285202026367, -47.928409576416016)
+    [Part] HumanoidRootPart (Pos: -30.285207748413086, 57.881710052490234, -49.62446594238281)
+    [MeshPart] RightLowerLeg (Pos: -29.17609405517578, 58.68407440185547, -48.26919174194336)
+    [MeshPart] Beak (Pos: -30.804698944091797, 56.870052337646484, -51.167049407958984)
+    [MeshPart] LeftFoot (Pos: -30.525760650634766, 59.306705474853516, -48.014278411865234)
+    [MeshPart] LeftUpperArm (Pos: -31.542470932006836, 58.36144256591797, -49.6917610168457)
+    ... +7 more
+  [Model] jaxcrums
+    [Humanoid] Humanoid (WS=16 JP=42.284725189208984 HP=100)
+      [Animator] Animator
+    [ObjectValue] AnimSaves
+    [Folder] Animations
+      [Animation] Jump2
+      [Animation] Idle
+      [Animation] Jump
+      [Animation] Move
+      [Animation] Fall
+      [Animation] Climb
+    [NumberValue] ShoesScale = 0.4
+    [StringValue] ActorId = Character_7315679319_1
+    [Folder] Shoes
+      [MeshPart] LeftShoe (Pos: 7.160760402679443, 1.0342421531677246, -0.4895976781845093)
+      [MeshPart] RightShoe (Pos: 7.63032865524292, 1.1180652379989624, 0.024489276111125946)
+    [Folder] Pets
+      [Model] 1_2_3
+      [Model] 1_2_4
+      [Model] 1_2_1
+    [MeshPart] RightLowerLeg (Pos: 7.913357257843018, 1.4339661598205566, 0.08978232741355896)
+    [MeshPart] LeftFoot (Pos: 7.398199558258057, 1.0582365989685059, -0.4628482162952423)
+    [MeshPart] RightFoot (Pos: 8.362077713012695, 1.1758159399032593, 0.12197507172822952)
+    [MeshPart] LeftLowerLeg (Pos: 7.68726110458374, 1.4905829429626465, -0.42753905057907104)
+    [MeshPart] LeftUpperArm (Pos: 8.021241188049316, 3.0023114681243896, -0.8841543197631836)
+    [MeshPart] Beak (Pos: 9.79813289642334, 3.9138216972351074, 0.21109573543071747)
+    [MeshPart] LeftUpperLeg (Pos: 8.03110122680664, 2.37186336517334, -0.5365176200866699)
+    [MeshPart] RightUpperLeg (Pos: 7.964406490325928, 2.2840096950531006, 0.5596778988838196)
+    ... +8 more
+
+â•â•â•â•â•â•â•â•â•â•â• [Players] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 10
+
+  [Player] SHAMANBEYS
+    [PlayerScripts] PlayerScripts
+      [LocalScript] PlayerScriptsLoader
+      [ModuleScript] PlayerModule
+        [ModuleScript] ControlModule
+        [ModuleScript] CameraModule
+        [Folder] CommonUtils
+      [LocalScript] RbxCharacterSounds
+        [ModuleScript] AtomicBinding
+      [Folder] Runtime
+        [Folder] Actors
+    [PlayerGui] PlayerGui
+      [ScreenGui] -1000_MainGui
+        [Frame] LeftButtons
+        [Frame] CoinFrame
+        [StringValue] ActorId = Gui_MainGui_1
+      [ScreenGui] 0_ShoesGui
+        [Frame] MainFrame
+        [StringValue] ActorId = Gui_ShoesGui_2
+      [ScreenGui] -999_JumpGui
+        [Frame] JumpPowerFrame
+        [Frame] HeightFrame
+        [Frame] AutoJumpButtonFrame
+        ... +1 more
+      [ScreenGui] -100_RewardGui
+        [Frame] SpawnFrame
+        [Frame] JumpPowerTemplate
+        [Frame] GoldTemplate
+        ... +5 more
+      [ScreenGui] 1000_ToastGui
+        [Frame] Frame
+        [StringValue] ActorId = Gui_ToastGui_5
+      [ScreenGui] 0_PetGui
+        [Frame] MainFrame
+        [Frame] ConfirmFrame
+        [StringValue] ActorId = Gui_PetGui_6
+      [ScreenGui] 999_OpenPetEggGui
+        [Frame] Background
+        [Frame] ContentFrame
+        [StringValue] ActorId = Gui_OpenPetEggGui_7
+      ... +26 more
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_4458734821
+    [Backpack] Backpack
+    [Folder] leaderstats
+      [NumberValue] JumpPower = 42
+        [NumberValue] Priority = 1
+      [NumberValue] Evolve = 1
+        [NumberValue] Priority = 2
+  [Player] liammonkey381
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_6154738986
+    [Backpack] Backpack
+    [Folder] leaderstats
+      [NumberValue] JumpPower = 84
+        [NumberValue] Priority = 1
+      [NumberValue] Evolve = 1
+        [NumberValue] Priority = 2
+  [Player] Jo_sep21
+    [Folder] leaderstats
+      [NumberValue] Evolve = 4
+        [NumberValue] Priority = 2
+      [NumberValue] JumpPower = 28182.40000000035
+        [NumberValue] Priority = 1
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_4074817486
+    [NumberValue] TakeWinTick = 1784948016.176031
+    [Backpack] Backpack
+  [Player] barbiecas54
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_7755972490
+    [Backpack] Backpack
+    [NumberValue] TakeWinTick = 1784948764.6626885
+    [Folder] leaderstats
+      [NumberValue] Evolve = 4
+        [NumberValue] Priority = 2
+      [NumberValue] JumpPower = 37137.59999999885
+        [NumberValue] Priority = 1
+  [Player] Ayden67454
+    [Backpack] Backpack
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_11259479052
+    [Folder] leaderstats
+      [NumberValue] JumpPower = 800
+        [NumberValue] Priority = 1
+      [NumberValue] Evolve = 2
+        [NumberValue] Priority = 2
+    [NumberValue] TakeWinTick = 1784949049.251457
+  [Player] Viccas_5
+    [Backpack] Backpack
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_10222305620
+    [Folder] leaderstats
+      [NumberValue] Evolve = 3
+        [NumberValue] Priority = 2
+      [NumberValue] JumpPower = 3842.7999999999497
+        [NumberValue] Priority = 1
+    [NumberValue] TakeWinTick = 1784948256.8330774
+  [Player] venomshank690
+    [NumberValue] TakeWinTick = 1784949014.6693501
+    [Folder] leaderstats
+      [NumberValue] Evolve = 4
+        [NumberValue] Priority = 2
+      [NumberValue] JumpPower = 44000
+        [NumberValue] Priority = 1
+    [Backpack] Backpack
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_8327372539
+  [Player] Preppyunicorn662
+    [Folder] leaderstats
+      [NumberValue] Evolve = 3
+        [NumberValue] Priority = 2
+      [NumberValue] JumpPower = 3787.200000000016
+        [NumberValue] Priority = 1
+    [NumberValue] TakeWinTick = 1784948738.5303097
+    [Backpack] Backpack
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_9976213498
+  [Player] NoahBearMath
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_7415256992
+    [Backpack] Backpack
+    [Folder] leaderstats
+      [NumberValue] JumpPower = 532351.9999999998
+        [NumberValue] Priority = 1
+      [NumberValue] Evolve = 6
+        [NumberValue] Priority = 2
+  [Player] jaxcrums
+    [StarterGear] StarterGear
+    [StringValue] ActorId = Player_7315679319
+    [Folder] leaderstats
+      [NumberValue] JumpPower = 5772.7999999999765
+        [NumberValue] Priority = 1
+      [NumberValue] Evolve = 4
+        [NumberValue] Priority = 2
+    [Backpack] Backpack
+
+â•â•â•â•â•â•â•â•â•â•â• [CoreGui] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 41
+
+  [ScreenGui] RobloxGui
+    [Frame] ControlFrame
+      [Frame] BottomLeftControl
+        [Frame] DialogFrame
+      [Frame] BottomRightControl
+      [Frame] TopLeftControl
+      [Frame] DialogScriptMessage
+        [TextLabel] Text
+    [Folder] Modules
+      [ModuleScript] ApolloClient
+        [ModuleScript] ApolloClient
+      [Folder] Captures
+        [ModuleScript] CapturesApp
+      [ModuleScript] AbuseReportMenu
+        [Folder] Analytics
+        [Folder] Components
+        [Folder] Flags
+        [Folder] Hooks
+        [Folder] IXP
+        ... +6 more
+      [ModuleScript] ActionBindingsTab
+      [ModuleScript] AggregatedData
+      [ModuleScript] BackpackScript
+      [Folder] AvatarContextMenu
+        [ModuleScript] ContextMenuGui
+        [ModuleScript] ContextMenuItems
+        [ModuleScript] ContextMenuUtil
+        [ModuleScript] PlayerCarousel
+        [ModuleScript] SelectedCharacterIndicator
+        ... +1 more
+      [ModuleScript] AvatarEditorPrompts
+        [Folder] Actions
+        [ModuleScript] AvatarEditorPromptsPolicy
+        [Folder] Components
+        [ModuleScript] ConnectAvatarEditorServiceEvents
+        [ModuleScript] GetAssetIdsFromDescription
+        ... +9 more
+      [Folder] AvatarGeneration
+        [ModuleScript] SelfieConsent
+        [ModuleScript] SelfieQr
+      [ModuleScript] CaptureMaster
+      ... +69 more
+    [CoreScript] CoreScripts/CoreScriptErrorReporter
+    [CoreScript] CoreScripts/AppChatMain
+    [Folder] SoundManager_Sounds
+    [Folder] SoundManager_SoundGroups
+    [Folder] Sounds
+      [Sound] VolumeChangeSound
+      [Sound] VolumeChangeSound
+    [CoreScript] CoreScripts/NotificationScript2
+    [BindableEvent] SendNotificationInfo â­
+    [Frame] NotificationFrame
+    [Frame] PopupFrame
+      [TextButton] PopupAcceptButton
+      [TextButton] PopupDeclineButton
+      [TextButton] PopupOKButton
+      [TextLabel] PopupText
+    [CoreScript] CoreScripts/MainBotChatScript2
+    [CoreScript] CoreScripts/ProximityPrompt
+    [CoreScript] CoreScripts/ScreenTimeInGame
+    [Frame] ErrorPrompt
+      [UIListLayout] PromptLayout
+      [UIScale] PromptScale
+      [Frame] TitleFrame
+        [UIPadding] TitleFramePadding
+        [TextLabel] ErrorTitle
+      [Frame] SplitLine
+      [Frame] MessageArea
+        [UIPadding] MessageAreaPadding
+        [Frame] ErrorFrame
+    [CoreScript] CoreScripts/PerformanceStatsManagerScript
+    [CoreScript] CoreScripts/PlayerRagdoll
+    [CoreScript] CoreScripts/PlayerBillboards
+    [ScreenGui] ScreenGui
+      [StyleLink] StyleSheet
+      [Frame] FoundationCursorContainer
+    [CoreScript] CoreScripts/BlockPlayerPrompt
+    ... +41 more
+  [LocalizationTable] CoreScriptLocalization
+  [ScreenGui] ShortcutBar
+    [Frame] ShortcutBarWrapper
+      [UIListLayout] Layout
+  [Folder] TopBarApp
+    [StyleLink] StyleSheet
+    [ScreenGui] TopBarScrim
+      [Frame] TopBarScrim
+    [ScreenGui] TopBarApp
+      [Frame] MenuIconHolder
+        [Frame] CursorContainer
+        [Folder] OnRootedListener
+        [Frame] TriggerPoint
+      [Frame] UnibarLeftFrame
+        [Frame] UnibarMenu
+        [Frame] HealthBar
+        [Frame] StackedElements
+        [UIPadding] Padding
+      [Frame] TopBarFrame
+        [Frame] LeftFrame
+      [Frame] SongbirdReportAudioFrame
+      [Frame] FullScreenFrame
+        [ImageLabel] HurtOverlay
+    [Frame] FoundationCursorContainer
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 5 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] SkinToneCircle Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+  [ScreenGui] RobloxPromptGui
+    [Frame] promptOverlay
+  [ScreenGui] ScreenshotsCarousel
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [ScreenGui] CaptureManager
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [ScreenGui] CaptureOverlay
+    [StyleLink] StyleSheet
+    [Frame] CaptureOverlay
+    [Frame] FoundationCursorContainer
+  [ScreenGui] MomentsCreationFlow
+  [ScreenGui] RobloxNetworkPauseNotification
+  [ScreenGui] _FullscreenTestGui
+  [ScreenGui] _DeviceTestGui
+  [Folder] ToastNotification
+    [StyleLink] StyleSheet
+    [ScreenGui] ToastNotificationWrapper
+      [Frame] Toast
+        [Frame] SwipeDetector
+    [Frame] FoundationCursorContainer
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+  [ScreenGui] TeleportEffectGui
+    [Frame] TopFrame
+    [Frame] TopFrame
+    [Frame] SpinnerContainer
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] SpinnerRobloxTilt
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+    [TextLabel] TextLabel
+  [Folder] AdGuiInteractivityControls
+  [ScreenGui] ImmersiveBrandedAds
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [ScreenGui] RewardedVideoAdPlayer
+  [Folder] GameInvite
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [Folder] BulkPurchaseApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [ScreenGui] BulkPurchaseApp
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [Folder] InExperienceTransferApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [Folder] CancelSubscriptionApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [Folder] CommercePurchaseApp
+    [StyleLink] StyleSheet
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] InvisibleContainer
+    [Frame] FoundationCursorContainer
+  [ScreenGui] SystemScrim
+  [Folder] InExperienceDetailsPromptApp
+    [ScreenGui] InExperienceDetailsPromptOverlay
+      [StyleLink] StyleSheet
+      [Frame] FoundationCursorContainer
+  [ScreenGui] PlayerList
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+    [Frame] Children
+      [Frame] OffsetFrame
+        [Frame] PlayerScrollList
+      [UISizeConstraint] UISizeConstraint
+  [Folder] SocialContextToast
+    [StyleLink] StyleSheet
+    [ScreenGui] SocialContextToastGUI
+    [Frame] FoundationCursorContainer
+  [Folder] AppChat
+    [Folder] InExperienceAppChatProviders
+      [Folder] PageWrapper
+        [StyleLink] StyleSheet
+        [Frame] FoundationCursorContainer
+  [ScreenGui] ExperienceChat
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+      [Frame] Invisible Color
+      [Frame] RoundedSlot Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 0 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] 0 8 3 3 Color
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+    [ScreenGui] bubbleChat
+      [BillboardGui] BubbleChat_8327372539
+      [BillboardGui] BubbleChat_6154738986
+      [BillboardGui] BubbleChat_4458734821
+        [Frame] BubbleChatList
+      [BillboardGui] BubbleChat_7415256992
+      [BillboardGui] BubbleChat_11259479052
+      [BillboardGui] BubbleChat_7315679319
+    [Frame] CursorContainer
+    [Folder] OnRootedListener
+    [Frame] appLayout
+      [ImageLabel] topBorder
+        [UISizeConstraint] uiSizeConstraint
+      [UIListLayout] layout
+      [UISizeConstraint] uiSizeConstraint
+      [ImageLabel] bottomBorder
+        [UISizeConstraint] uiSizeConstraint
+      [Frame] chatWindow
+        [Frame] hoverLayer
+        [UISizeConstraint] uiSizeConstraint
+        [Frame] contentFrame
+      [Frame] channelBar
+        [Frame] HorizontalBar
+      [Frame] topPadding
+      [Frame] chatInputBar
+        [UIListLayout] Layout
+        [Frame] FillArea
+        [Frame] PresetButton
+    [Frame] InvisibleContainer
+  [ScreenGui] InExperienceInterventionApp
+    [StyleLink] StyleSheet
+    [Frame] StyleProvider
+      [Frame] EventReceiver
+    [Frame] FoundationCursorContainer
+    [Frame] LayerCollectorChildRef
+  [ScreenGui] PurchasePromptApp
+    [StyleLink] StyleSheet
+    [Folder] Children
+      [Frame] ProductPurchaseContainer
+        [Frame] Animator
+      [Folder] EventConnections
+    [Frame] FoundationCursorContainer
+  [Folder] PublishAssetPrompt
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [Folder] AvatarEditorPromptsApp
+    [StyleLink] StyleSheet
+    [Frame] FoundationCursorContainer
+  [StyleLink] StyleSheet
+  [Frame] CursorContainer
+  [Folder] OnRootedListener
+  [Frame] FoundationCursorContainer
+  [ScreenGui] InGameFullscreenTitleBarScreen
+    [Frame] TriggerArea
+    [Frame] Bar
+      [Frame] BarFrame
+        [Frame] ThreeSectionBar
+      [Frame] ShadowFrame
+        [UIGradient] UIGradient
+  [ScreenGui] HeadsetDisconnectedDialog
+    [Frame] Overlay
+      [ImageButton] Alert
+        [ImageLabel] AlertContents
+  [ScreenGui] FoundationOverlay
+    [StyleLink] FoundationStyleLink
+    [Frame] SafeAreaFrame
+  [ScreenGui] EulenMenu
+    [Frame] MainFrame
+      [UICorner] UICorner
+      [UIScale] UIScale
+      [UIStroke] UIStroke
+      [Frame] Frame
+        [UICorner] UICorner
+        [Frame] Frame
+        [Frame] Frame
+        [Frame] Frame
+        [Frame] Frame
+        ... +3 more
+    [Frame] ColorPickerPopup
+      [UICorner] UICorner
+      [UIStroke] UIStroke
+      [TextButton] CloseBtn
+        [UICorner] UICorner
+      [TextButton] TextButton
+        [Frame] SaturationOverlay
+        [Frame] ValueOverlay
+        [Frame] Frame
+      [TextButton] TextButton
+        [UIGradient] UIGradient
+        [Frame] Frame
+      [TextBox] TextBox
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+    [Frame] NotifContainer
+      [UIListLayout] UIListLayout
+    [Frame] Frame
+      [UICorner] UICorner
+      [TextLabel] TextLabel
+      [UIStroke] UIStroke
+      [Frame] Frame
+        [UIListLayout] UIListLayout
+  ... +1 more
+
+â•â•â•â•â•â•â•â•â•â•â• [CorePackages] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 2
+
+  [Folder] Packages
+    [Folder] _Index
+      [Folder] ApolloClient
+      [Folder] AvatarExperienceDeps
+      [Folder] Boolean
+      [Folder] BuilderIcons
+      [Folder] Collections
+      [Folder] CollisionMatchers2D
+      [Folder] Console
+      [Folder] Cryo
+      [Folder] Dash
+      [Folder] DataLoader
+      ... +121 more
+    [ModuleScript] ApolloClient
+    [ModuleScript] AvatarExperienceDeps
+    [ModuleScript] BuilderIcons
+    [ModuleScript] Cryo
+    [ModuleScript] Dash
+    [ModuleScript] DataLoader
+    [ModuleScript] EmojiList
+    [ModuleScript] enumerate
+    [ModuleScript] FitFrame
+    [ModuleScript] FocusBehaviors
+    [ModuleScript] Foundation
+    [ModuleScript] FoundationCloudAssets
+    [ModuleScript] FoundationImages
+    [ModuleScript] GraphQL
+    [ModuleScript] GraphqlToolsUtils
+    [ModuleScript] HttpRequest
+    [ModuleScript] InGameMenuDependencies
+    [ModuleScript] InlineLayout
+    [ModuleScript] InputHandlers
+    ... +57 more
+  [Folder] Workspace
+    [Folder] Packages
+      [Folder] _Index
+      [Folder] _Workspace
+      [ModuleScript] Achievements
+      [ModuleScript] AdGuiInteractivity
+      [ModuleScript] AdPlayer
+      [ModuleScript] AdsEudsa
+      [ModuleScript] AmpUpsell
+      [ModuleScript] Analytics
+      [ModuleScript] AppBlox
+      [ModuleScript] AppChat
+      ... +168 more
+
+â•â•â•â•â•â•â•â•â•â•â• [Lighting] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 6
+
+  [Atmosphere] Atmosphere
+  [Sky] Sky
+  [BloomEffect] Bloom
+  [ColorCorrectionEffect] ColorCorrection
+  [DepthOfFieldEffect] DepthOfField
+  [SunRaysEffect] SunRays
+
+â•â•â•â•â•â•â•â•â•â•â• [MaterialService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 1
+
+  [MaterialVariant] Stud
+
+â•â•â•â•â•â•â•â•â•â•â• [NetworkClient] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 1
+
+  [ClientReplicator] ClientReplicator
+
+â•â•â•â•â•â•â•â•â•â•â• [PlatformLibraries] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [ReplicatedFirst] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [ReplicatedStorage] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 4
+
+  [Folder] Runtime
+    [Folder] Admin
+      [RemoteEvent] AdminEvent â­
+    [Folder] Actors
+      [Folder] Character_10222305620_3
+        [Folder] Events
+        [Folder] Functions
+      [Folder] Character_11259479052_2
+        [Folder] Events
+        [Folder] Functions
+      [Folder] Player_7755972490
+        [Folder] Events
+        [Folder] Functions
+      [Folder] Player_10222305620
+        [Folder] Events
+        [Folder] Functions
+      [Folder] GoldPointActor_1
+        [Folder] Events
+        [Folder] Functions
+      [Folder] WinPointActor_2
+        [Folder] Events
+        [Folder] Functions
+      [Folder] WinPointActor_3
+        [Folder] Events
+        [Folder] Functions
+      [Folder] UpgradePointActor_4
+        [Folder] Events
+        [Folder] Functions
+      [Folder] GoldPointActor_5
+        [Folder] Events
+        [Folder] Functions
+      [Folder] LadderPointActor_6
+        [Folder] Events
+        [Folder] Functions
+      [Folder] LadderPointActor_7
+        [Folder] Events
+        [Folder] Functions
+      [Folder] GoldPointActor_8
+        [Folder] Events
+        [Folder] Functions
+      [Folder] GoldPointActor_9
+        [Folder] Events
+        [Folder] Functions
+      [Folder] GoldPointActor_10
+        [Folder] Events
+        [Folder] Functions
+      [Folder] GoldPointActor_11
+        [Folder] Events
+        [Folder] Functions
+      ... +130 more
+    [Folder] SyncEntities
+      [Folder] Character_10222305620_3
+        [RemoteEvent] SyncEvent â­
+      [Folder] Character_11259479052_2
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_7755972490
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_10222305620
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_8327372539
+        [RemoteEvent] SyncEvent â­
+      [Folder] Character_8327372539_2
+        [RemoteEvent] SyncEvent â­
+      [Folder] Character_9976213498_3
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_6154738986
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_9976213498
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_11259479052
+        [RemoteEvent] SyncEvent â­
+      [Folder] Character_7755972490_1
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_4074817486
+        [RemoteEvent] SyncEvent â­
+      [Folder] Character_4074817486_2
+        [RemoteEvent] SyncEvent â­
+      [Folder] Character_6154738986_1
+        [RemoteEvent] SyncEvent â­
+      [Folder] Player_4458734821
+        [RemoteEvent] SyncEvent â­
+      ... +5 more
+  [Folder] Scripts
+    [Folder] Player
+      [Folder] CharacterComponents
+        [ModuleScript] JumpComponent
+        [ModuleScript] AvatarComponent
+        [ModuleScript] AutoClimbComponent
+        [ModuleScript] FlyingCarpetComponent
+      [Folder] PlayerComponents
+        [ModuleScript] GuideComponent
+        [ModuleScript] UpgradeComponent
+    [Folder] Core
+      [Folder] Actor
+        [ModuleScript] ActorBase
+        [Script] ServerActor
+        [ModuleScript] ActorInterface
+        [ModuleScript] ComponentBase
+        [Script] ClientActor
+        [Folder] ComponentBases
+      [Folder] Utils
+        [ModuleScript] TickerUtils
+        [ModuleScript] Utils
+        [ModuleScript] GoodsUtils
+        [ModuleScript] GuiUtils
+        [ModuleScript] ParticleEmitterHelper
+        [ModuleScript] EffectUtils
+      [Folder] Sync
+        [ModuleScript] ServerSyncEntity
+        [ModuleScript] ClientSyncEntity
+      [Folder] Player
+        [ModuleScript] PlayerActor
+        [Script] PlayerManager
+        [ModuleScript] CharacterActor
+        [ModuleScript] ToolActorBase
+        [Folder] PlayerComponents
+        [Folder] CharacterComponents
+      [Folder] Configs
+        [ModuleScript] ErrorConfig
+      [Folder] Admin
+        [ModuleScript] ClientCmdBase
+        [Script] AdminManager
+        [Folder] Cmds
+      [Folder] Gui
+        [ModuleScript] GuiActorBase
+        [Script] GuiManager
+    [Folder] Configs
+      [ModuleScript] CoinConfig
+      [ModuleScript] GameConfig
+      [ModuleScript] WorldConfig
+      [ModuleScript] UpgradeConfig
+      [ModuleScript] ShoesConfig
+      [ModuleScript] PetConfig
+      [ModuleScript] PetEggConfig
+      [ModuleScript] EvolveConfig
+      [ModuleScript] PetCapacityConfig
+      [ModuleScript] PetEquipCapacityConfig
+      [ModuleScript] PetCapacityConfigUtils
+      [ModuleScript] PetEggConfigUtils
+      [ModuleScript] EvolveConfigUtils
+      [ModuleScript] GoodsConfig
+      [ModuleScript] ShoesConfigUtils
+      ... +16 more
+    [Folder] Gui
+      [Folder] PlayerGuiActors
+        [ModuleScript] MainGuiActor
+        [ModuleScript] JumpGuiActor
+        [ModuleScript] EvolveGuiActor
+        [ModuleScript] ToastGuiActor
+        [ModuleScript] OpenPetEggGuiActor
+        [ModuleScript] RewardGuiActor
+        [ModuleScript] ShoesGuiActor
+        ... +14 more
+      [Folder] ComponentBases
+        [ModuleScript] DetailComponentBase
+        [ModuleScript] FunctionComponentBase
+        [ModuleScript] GridComponentBase
+    [Folder] Scene
+      [Script] SceneManager
+        [ModuleScript] PetEggControl
+        [ModuleScript] ShoesShopControl
+        [ModuleScript] ShoesPointControl
+        [ModuleScript] AutoClimbPointControl
+        [ModuleScript] DirectEvolvePointControl
+        [ModuleScript] PetPointControl
+        [ModuleScript] FlyingCarpetPointControl
+        ... +3 more
+      [Script] OneWayPlatformManager
+        [ModuleScript] OneWayPlatformControl
+      [Folder] StageObject
+        [Script] StageObjectManager
+        [ModuleScript] StageObjectActorBase
+        [ModuleScript] GoldPointActor
+        [ModuleScript] DiamondPointActor
+        [ModuleScript] WinPointActor
+        [ModuleScript] LadderPointActor
+        [ModuleScript] UpgradePointActor
+        ... +3 more
+  [Folder] Events
+    [Folder] Gui
+      [RemoteEvent] ShowOpenPetEggResult â­
+      [RemoteEvent] ShowToast â­
+      [RemoteEvent] PetGuiShowRedDot â­
+      [RemoteEvent] ShowRollBoostResult â­
+      [RemoteEvent] PotionGuiShowRedDot â­
+      [BindableEvent] SelectChangedEvent â­
+      [BindableEvent] SelectChangedEvent â­
+      [BindableEvent] SelectChangedEvent â­
+  [Folder] Prefabs
+    [Folder] Guis
+      [Folder] Colors
+        [UIGradient] Uncommon
+        [UIGradient] Rare
+        [UIGradient] Legendary
+        [UIGradient] Common
+        [UIGradient] Epic
+        [UIGradient] Mythical
+        [UIGradient] JumpPower
+        ... +3 more
+    [Folder] Sounds
+      [Sound] DefaultJumpSound
+    [Folder] Beams
+      [Beam] GuideBeam
+
+â•â•â•â•â•â•â•â•â•â•â• [StarterGui] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 23
+
+  [ScreenGui] -1000_MainGui
+    [Frame] LeftButtons
+      [ImageButton] EvolveGui
+        [TextLabel] TextLabel
+        [ImageLabel] RedDot
+        [ImageLabel] ImageLabel
+        [UIGradient] UIGradient
+        [Frame] GuideFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] ShopGui
+        [TextLabel] TextLabel
+        [ImageLabel] RedDot
+        [ImageLabel] ImageLabel
+        [UIGradient] UIGradient
+      [UIGridLayout] UIGridLayout
+      [ImageButton] BagGui
+        [TextLabel] TextLabel
+        [ImageLabel] RedDot
+        [ImageLabel] ImageLabel
+        [UIGradient] UIGradient
+      [ImageButton] OnlineGiftGui
+        [TextLabel] TextLabel
+        [ImageLabel] RedDot
+        [ImageLabel] ImageLabel
+        [UIGradient] UIGradient
+    [Frame] CoinFrame
+      [Frame] GoldFrame
+        [Frame] PriceFrame
+        [ImageLabel] BackImageLabel
+      [UIListLayout] UIListLayout
+      [Frame] WinFrame
+        [Frame] PriceFrame
+        [ImageLabel] BackImageLabel
+      [Frame] DiamondFrame
+        [Frame] PriceFrame
+        [ImageLabel] BackImageLabel
+        [ImageButton] AddButton
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+  [ScreenGui] 0_ShoesGui
+    [Frame] MainFrame
+      [Frame] DetailFrame
+        [Frame] IconFrame
+        [UIListLayout] UIListLayout
+        [UIPadding] UIPadding
+        [Frame] ButtonFrame
+        [Frame] ValueFrame
+        ... +2 more
+      [Frame] GridFrame
+        [ScrollingFrame] ScrollingFrame
+        [UIPadding] UIPadding
+        [UIFlexItem] UIFlexItem
+        [UICorner] UICorner
+        [UIGradient] UIGradient
+        ... +1 more
+      [ImageButton] ReturnButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Back
+        [UIGradient] UIGradient
+        [UIGradient] UIGradient
+        [UIGradient] UIGradient
+      [Frame] DecorationFrame
+        [TextLabel] PetsLabel
+        [ImageLabel] ImageLabel
+        [ImageLabel] ImageLabel
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] LineImageLabel
+      [ImageLabel] BackImageLabel
+  [ScreenGui] -999_JumpGui
+    [Frame] JumpPowerFrame
+      [Frame] ProgressBar
+        [ImageLabel] BackImageLabel
+      [TextLabel] JumpPowerLabel
+        [UIStroke] UIStroke
+      [ImageLabel] ImageLabel
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [Frame] JumpCountInfo
+        [TextLabel] JumpCountLabel
+        [ImageLabel] ImageLabel
+      [ImageButton] EvolveButton
+        [ImageLabel] ImageLabel
+        [TextLabel] TextLabel
+        [UIGradient] UIGradient
+      [ImageLabel] BackImageLabel
+        [UIGradient] UIGradient
+    [Frame] HeightFrame
+      [TextLabel] HeightLabel
+        [UIStroke] UIStroke
+    [Frame] AutoJumpButtonFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] AutoJumpButton
+        [TextLabel] TextLabel
+        [ImageLabel] Icon
+        [ImageLabel] EnabledBackground
+        [ImageLabel] DisabledBackground
+        [Frame] GuideFrame
+      [ImageButton] FastAutoJumpButton
+        [TextLabel] TextLabel
+        [ImageLabel] EnabledBackground
+        [ImageLabel] DisabledBackground
+        [Frame] GuideFrame
+  [ScreenGui] -100_RewardGui
+    [Frame] SpawnFrame
+    [Frame] JumpPowerTemplate
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Icon
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [TextLabel] TextLabel
+        [UIStroke] UIStroke
+      [UIListLayout] UIListLayout
+    [Frame] GoldTemplate
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Icon
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [TextLabel] TextLabel
+        [UIStroke] UIStroke
+      [UIListLayout] UIListLayout
+    [Frame] WinTemplate
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Icon
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [TextLabel] TextLabel
+        [UIStroke] UIStroke
+      [UIListLayout] UIListLayout
+    [Frame] DiamondTemplate
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Icon
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [TextLabel] TextLabel
+        [UIStroke] UIStroke
+      [UIListLayout] UIListLayout
+  [ScreenGui] 1000_ToastGui
+    [Frame] Frame
+      [TextLabel] TextLabel
+        [UIStroke] UIStroke
+        [UIGradient] UIGradient
+  [ScreenGui] 0_PetGui
+    [Frame] MainFrame
+      [Frame] DetailFrame
+        [Frame] IconFrame
+        [UIListLayout] UIListLayout
+        [UIPadding] UIPadding
+        [Frame] ButtonFrame
+        [Frame] ValueFrame
+      [Frame] GridFrame
+        [ScrollingFrame] ScrollingFrame
+        [UIPadding] UIPadding
+        [UIFlexItem] UIFlexItem
+        [UICorner] UICorner
+      [Frame] BottomFrame
+        [Frame] CapacityFrame
+        [Frame] UnlockCapacityFrame
+        [ImageButton] DeleteManyButton
+        [ImageButton] ConfirmDeleteButton
+        [ImageButton] CancelDeleteButton
+        ... +2 more
+      [ImageLabel] Back
+        [UIGradient] UIGradient
+      [Frame] DecorationFrame
+        [TextLabel] PetsLabel
+        [ImageLabel] ImageLabel
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] LineImageLabel
+      [ImageLabel] BackImageLabel
+      [ImageLabel] BackImageLabel
+    [Frame] ConfirmFrame
+      [ModuleScript] ConfirmFrameControl
+      [TextLabel] TextLabel
+        [UIStroke] UIStroke
+      [Frame] ButtonFrame
+        [ImageButton] YesButton
+        [ImageButton] NoButton
+        [UIListLayout] UIListLayout
+      [ImageLabel] BackImageLabel
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+  [ScreenGui] 999_OpenPetEggGui
+    [Frame] Background
+    [Frame] ContentFrame
+      [UIListLayout] UIListLayout
+      [Frame] PetEggFrameTemplate_old
+        [ViewportFrame] EggFrame
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [Frame] PetFrame
+      [Frame] PetEggFrameTemplate
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [Frame] PetFrame
+        [Frame] EggFrame
+  [ScreenGui] 0_EvolveGui
+    [Frame] MainFrame
+      [Frame] AvatarFrame
+        [ImageLabel] CurrentAvatar
+        [ImageLabel] Arrow
+        [ImageLabel] NextAvatar
+        [ImageLabel] BackImageLabel
+        [ImageLabel] BackImageLabel
+      [Frame] StatsFrame
+        [Frame] JumpCount
+        [Frame] JumpPower
+        [UICorner] UICorner
+        [UIListLayout] UIListLayout
+      [TextLabel] WarnLabel
+        [UIStroke] UIStroke
+      [ImageButton] EvolveButton
+        [ImageLabel] Icon
+        [TextLabel] Price
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [UIGradient] UIGradient
+        [UICorner] UICorner
+        ... +1 more
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [Frame] JumpPowerFrame
+        [Frame] ProgressBar
+        [TextLabel] JumpPowerLabel
+        [ImageLabel] ImageLabel
+        [ImageLabel] BackImageLabel
+      [ImageLabel] BackImageLabel
+        [UIGradient] UIGradient
+      [Frame] DecorationFrame
+        [ImageLabel] ImageLabel
+        [TextLabel] TextLabel
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] SkipButton
+        [TextLabel] TextLabel
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [UIGradient] UIGradient
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+  [ScreenGui] 900_ConfirmationGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] ConfirmButton
+        [ImageLabel] Icon
+        [TextLabel] Cost
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [UIGradient] UIGradient
+        [UICorner] UICorner
+        ... +1 more
+      [Frame] InfoFrame
+        [TextLabel] ConfirmText
+        [Frame] AutoJump
+        [UIListLayout] UIListLayout
+        [Frame] Ladder
+        [Frame] AutoOpen
+        ... +4 more
+      [ImageLabel] Background
+      [ImageLabel] Background
+  [BillboardGui] PetEggBillboard
+    [Frame] Frame
+      [Frame] ContentFrame
+        [UIGridLayout] UIGridLayout
+        [Frame] ItemTemplate
+      [Frame] ButtonFrame
+        [UIListLayout] UIListLayout
+        [TextButton] Open1Button
+        [TextButton] Open3Button
+        [TextButton] AutoOpenButton
+      [ImageLabel] BackImageLabel
+        [UIGradient] UIGradient
+      [Frame] DecorationFrame
+        [TextLabel] PetsLabel
+        [ImageLabel] ImageLabel
+      [ImageLabel] Back2ImageLabel
+        [UICorner] UICorner
+        [UIGradient] UIGradient
+  [ScreenGui] 0_UpgradeGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] UpgradeButton
+        [ImageLabel] Icon
+        [TextLabel] Cost
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [UIGradient] UIGradient
+        [UICorner] UICorner
+        ... +1 more
+      [TextLabel] Title
+        [UIStroke] UIStroke
+      [Frame] UpgradeValueFrame
+        [ImageLabel] Icon
+        [TextLabel] Value
+      [ImageLabel] Background
+      [ImageLabel] Background
+    [Frame] QuestFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [TextLabel] Title
+        [UIStroke] UIStroke
+      [Frame] UpgradeValueFrame
+        [ImageLabel] Icon
+        [TextLabel] Value
+      [ImageLabel] Background
+      [ImageLabel] Background
+      [Frame] QuestFrame
+        [Frame] ProgressFrame
+        [Frame] DescriptionFrame
+      [Frame] ButtonFrame
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [ImageButton] AcceptButton
+        [ImageButton] ClaimButton
+  [ScreenGui] -900_JumpPowerMultiplyGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [Frame] DescriptionFrame
+        [ImageLabel] Icon
+        [TextLabel] Value
+        [TextLabel] Price
+        [ImageLabel] Background
+      [ImageButton] BuyButton
+  [ScreenGui] 0_BoostGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Background
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] BoostSlotFrame
+        [UIListLayout] UIListLayout
+        [Frame] ItemTemplate
+      [Frame] PityFrame
+        [UIListLayout] UIListLayout
+        [Frame] ItemTemplate
+      [Frame] ButtonFrame
+        [ImageButton] AutoRollButton
+        [ImageButton] FastRollButton
+        [ImageButton] RollButton
+      [Frame] DecorationFrame
+        [TextLabel] PetsLabel
+      [ImageLabel] Background
+        [UIGradient] UIGradient
+  [ScreenGui] -998_AutoClimbGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] AutoClimbButton
+        [TextLabel] TextLabel
+        [ImageLabel] Icon
+        [ImageLabel] EnabledBackground
+        [ImageLabel] DisabledBackground
+        [Frame] GuideFrame
+      [ImageButton] FastAutoClimbButton
+        [TextLabel] TextLabel
+        [ImageLabel] EnabledBackground
+        [ImageLabel] DisabledBackground
+        [Frame] GuideFrame
+  [ScreenGui] -997_FlyingCarpetGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] FlyingCarpetButton
+        [TextLabel] TextLabel
+        [ImageLabel] Icon
+        [ImageLabel] EnabledBackground
+        [ImageLabel] DisabledBackground
+        [Frame] GuideFrame
+  [ScreenGui] 0_ShopGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Background
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] DecorationFrame
+        [TextLabel] TextLabel
+        [ImageLabel] ImageLabel
+      [ImageLabel] Background
+        [UIGradient] UIGradient
+        [UIGradient] UIGradient
+      [Frame] TabFrame
+        [ImageButton] GamePassFrame
+        [UIListLayout] UIListLayout
+        [ImageButton] DiamondFrame
+        [ImageButton] EvolveFrame
+      [ScrollingFrame] ContentFrame
+        [Frame] GamePassFrame
+        [UIListLayout] UIListLayout
+        [Frame] DiamondFrame
+        [Frame] EvolveFrame
+  [ScreenGui] 0_TeleportGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] Background
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+      [Frame] DecorationFrame
+        [TextLabel] TextLabel
+        [ImageLabel] ImageLabel
+      [ImageLabel] Background
+        [UIGradient] UIGradient
+      [ScrollingFrame] ContentFrame
+        [Frame] 0M
+        [UIListLayout] UIListLayout
+        [Frame] 1KM
+  [BillboardGui] DiamondPointBillboard
+    [Frame] CountdownFrame
+      [TextLabel] Countdown
+        [UIStroke] UIStroke
+    [Frame] PriceFrame
+      [ImageLabel] Icon
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [TextLabel] Price
+        [UIStroke] UIStroke
+    [Frame] ButtonFrame
+      [ImageButton] AutoCollectButton
+        [UIGradient] UIGradient
+        [TextLabel] TextLabel
+        [UIStroke] UIStroke
+        [UICorner] UICorner
+  [ScreenGui] -996_BuffGui
+    [Frame] MainFrame
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [Frame] Itemplate
+        [ImageLabel] Icon
+        [TextLabel] LeftTime
+      [UIGridLayout] UIGridLayout
+    [Frame] DetailFrame
+      [Frame] Detail
+        [Frame] Buff1
+        [Frame] QueueTitleFrame
+        [Frame] Buff2
+        [UIListLayout] UIListLayout
+      [ImageLabel] Background
+        [UIStroke] UIStroke
+        [UICorner] UICorner
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+  [ScreenGui] 1_BagGui
+    [Frame] MainFrame
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [Frame] TabFrame
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+        [ImageButton] PetGui
+        [UIListLayout] UIListLayout
+        [ImageButton] PotionGui
+  [ScreenGui] 0_PotionGui
+    [Frame] MainFrame
+      [Frame] DetailFrame
+        [Frame] IconFrame
+        [UIListLayout] UIListLayout
+        [Frame] ButtonFrame
+        [Frame] ValueFrame
+        [UIPadding] UIPadding
+      [Frame] GridFrame
+        [ScrollingFrame] ScrollingFrame
+        [UIPadding] UIPadding
+        [UIFlexItem] UIFlexItem
+        [UICorner] UICorner
+      [ImageLabel] Back
+        [UIGradient] UIGradient
+      [Frame] DecorationFrame
+        [TextLabel] PotionsLabel
+        [ImageLabel] ImageLabel
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] LineImageLabel
+      [ImageLabel] BackImageLabel
+      [ImageLabel] BackImageLabel
+  [ScreenGui] 0_OnlineGiftGui
+    [Frame] MainFrame
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [Frame] DecorationFrame
+        [TextLabel] PotionsLabel
+        [ImageLabel] ImageLabel
+      [Frame] GridFrame
+        [Frame] ItemTemplate
+        [UIGridLayout] UIGridLayout
+      [ImageLabel] Background
+        [UIGradient] UIGradient
+      [Frame] CountdownFrame
+        [TextLabel] TextLabel
+        [TextLabel] Countdown
+        [UICorner] UICorner
+      [ImageLabel] Background2
+        [UICorner] UICorner
+        [UIStroke] UIStroke
+  [ScreenGui] 0_TraitGui
+    [Frame] MainFrame
+      [Frame] IndexFrame
+        [TextLabel] Title
+        [ScrollingFrame] ScrollingFrame
+      [Frame] GridFrame
+        [ScrollingFrame] ScrollingFrame
+        [UIPadding] UIPadding
+        [UIFlexItem] UIFlexItem
+      [ImageLabel] Back
+        [UIGradient] UIGradient
+      [Frame] DecorationFrame
+        [TextLabel] TraitLabel
+        [ImageLabel] ImageLabel
+      [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] LineImageLabel
+      [ImageLabel] BackImageLabel
+      [Frame] TraitFrame
+        [Frame] SelectedPet
+        [Frame] CurrentTrait
+        [Frame] PityFrame
+        [ImageButton] RollButton
+        [Frame] ConfirmFrame
+      [ImageButton] CloseButton
+        [UIAspectRatioConstraint] UIAspectRatioConstraint
+      [ImageLabel] BackImageLabel
+
+â•â•â•â•â•â•â•â•â•â•â• [StarterPack] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [StarterPlayer] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 2
+
+  [StarterPlayerScripts] StarterPlayerScripts
+    [LocalScript] PlayerScriptsLoader
+    [ModuleScript] PlayerModule
+      [ModuleScript] ControlModule
+      [ModuleScript] CameraModule
+      [Folder] CommonUtils
+    [LocalScript] RbxCharacterSounds
+      [ModuleScript] AtomicBinding
+  [StarterCharacterScripts] StarterCharacterScripts
+
+â•â•â•â•â•â•â•â•â•â•â• [Teams] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [SoundService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 8
+
+  [Sound] ButtonDown
+  [Sound] GoldCoin
+  [Sound] Diamond
+  [Sound] Win
+  [AudioDeviceOutput] AudioDeviceOutput
+  [Folder] PetEggGui
+    [Sound] EggShake
+    [Sound] PetAppear
+  [Folder] ChargePoint
+    [Sound] ChargeSound
+    [Sound] LevelUpSound
+  [Folder] Resource
+    [Sound] Diamond
+    [Sound] Win
+    [Sound] Gold
+
+â•â•â•â•â•â•â•â•â•â•â• [Chat] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [TextChatService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 16
+
+  [ChatWindowConfiguration] ChatWindowConfiguration
+  [ChatInputBarConfiguration] ChatInputBarConfiguration
+  [BubbleChatConfiguration] BubbleChatConfiguration
+    [UIGradient] UIGradient
+    [ImageLabel] ImageLabel
+    [UICorner] UICorner
+    [UIPadding] UIPadding
+  [ChannelTabsConfiguration] ChannelTabsConfiguration
+  [TextChatCommand] help
+  [TextChatCommand] clearPlayerDb
+  [TextChatCommand] setPlayerDb
+  [TextChatCommand] setCharacterDb
+  [TextChatCommand] addItem
+  [TextChatCommand] batch
+  [TextChatCommand] unlock
+  [TextChatCommand] setBoost
+  [TextChatCommand] setCharge
+  [TextChatCommand] addBuff
+  [Folder] TextChannels
+    [TextChannel] RBXSystem
+      [TextSource] barbiecas54
+      [TextSource] Viccas_5
+      [TextSource] liammonkey381
+      [TextSource] Preppyunicorn662
+      [TextSource] Ayden67454
+      [TextSource] Jo_sep21
+      [TextSource] venomshank690
+      [TextSource] SHAMANBEYS
+      [TextSource] NoahBearMath
+      [TextSource] jaxcrums
+      ... +1 more
+    [TextChannel] RBXGeneral
+      [TextSource] barbiecas54
+      [TextSource] Viccas_5
+      [TextSource] liammonkey381
+      [TextSource] Preppyunicorn662
+      [TextSource] Ayden67454
+      [TextSource] Jo_sep21
+      [TextSource] venomshank690
+      [TextSource] SHAMANBEYS
+      [TextSource] NoahBearMath
+      [TextSource] jaxcrums
+      ... +2 more
+  [Folder] TextChatCommands
+    [TextChatCommand] RBXConsoleCommand
+    [TextChatCommand] RBXHelpCommand
+    [TextChatCommand] RBXMuteCommand
+    [TextChatCommand] RBXUnmuteCommand
+    [TextChatCommand] RBXVersionCommand
+    [TextChatCommand] RBXEmoteCommand
+    [TextChatCommand] RBXTeamCommand
+    [TextChatCommand] RBXWhisperCommand
+    [TextChatCommand] RBXClearCommand
+
+â•â•â•â•â•â•â•â•â•â•â• [VoiceChatService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [LocalizationService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [TestService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 1
+
+  [ModuleScript] LuauLSP_Settings
+
+â•â•â•â•â•â•â•â•â•â•â• [VRService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [AchievementService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• [AdService] â•â•â•â•â•â•â•â•â•â•â•
+Total children: 0
+
+  (empty)
+
+â•â•â•â•â•â•â•â•â•â•â• â­ ALL REMOTES (ReplicatedStorage) â­ â•â•â•â•â•â•â•â•â•â•â•
+[RE] ReplicatedStorage.Runtime.Admin.AdminEvent
+[RE] ReplicatedStorage.Runtime.Actors.Character_10222305620_3.Events.Teleport
+[RE] ReplicatedStorage.Runtime.Actors.Character_10222305620_3.Events.ToggleFlyingCarpet
+[RE] ReplicatedStorage.Runtime.Actors.Character_11259479052_2.Events.Teleport
+[RE] ReplicatedStorage.Runtime.Actors.Character_11259479052_2.Events.ToggleFlyingCarpet
+[RE] ReplicatedStorage.Runtime.Actors.Player_7755972490.Events.Jump
+[RE] ReplicatedStorage.Runtime.Actors.Player_7755972490.Events.ToggleFastAutoJump
+[RE] ReplicatedStorage.Runtime.Actors.Player_7755972490.Events.ToggleFastAutoClimb
+[RE] ReplicatedStorage.Runtime.Actors.Player_7755972490.Events.RefreshShopVersion
+[RE] ReplicatedStorage.Runtime.Actors.Player_7755972490.Events.AddBadge
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.BuyGoods
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.CheckGamePass
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UnlockAutoJump
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.FinishWorld
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.TeleportWorld
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.Upgrade
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.AddUpgradeQuest
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.Evolve
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.BuySkipEvolve
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.BuyDirectEvolve
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.CheckDiamondPointLeftTime
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.RollBoost
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UnlockAutoRoll
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UnlockAutoClimb
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.CheckBadge
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UnlockTeleport
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.Teleport
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UsePotions
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.ClaimOnlineGift
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.EquipShoes
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UnequipShoes
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.BuyShoes
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.EquipPet
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.EquipBestPets
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UnequipPet
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.DeletePets
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.MergePet
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.MergeAllPets
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.ToggleDeletePetId
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.OpenPetEggs
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.RollTrait
+[RF] ReplicatedStorage.Runtime.Actors.Player_7755972490.Functions.UnlockAutoOpen
+[RE] ReplicatedStorage.Runtime.Actors.Player_10222305620.Events.Jump
+[RE] ReplicatedStorage.Runtime.Actors.Player_10222305620.Events.ToggleFastAutoJump
+[RE] ReplicatedStorage.Runtime.Actors.Player_10222305620.Events.ToggleFastAutoClimb
+[RE] ReplicatedStorage.Runtime.Actors.Player_10222305620.Events.RefreshShopVersion
+[RE] ReplicatedStorage.Runtime.Actors.Player_10222305620.Events.AddBadge
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.BuyGoods
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.CheckGamePass
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.UnlockAutoJump
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.FinishWorld
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.TeleportWorld
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.Upgrade
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.AddUpgradeQuest
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.Evolve
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.BuySkipEvolve
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.BuyDirectEvolve
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.CheckDiamondPointLeftTime
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.RollBoost
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.UnlockAutoRoll
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.UnlockAutoClimb
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.CheckBadge
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.UnlockTeleport
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.Teleport
+[RF] ReplicatedStorage.Runtime.Actors.Player_10222305620.Functions.UsePotions
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_1.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.WinPointActor_2.Events.TakeWin
+[RE] ReplicatedStorage.Runtime.Actors.WinPointActor_3.Events.TakeWin
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_5.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_8.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_9.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_10.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_11.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_12.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_14.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_15.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_16.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldBrickPointActor_18.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_19.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.WinPointActor_20.Events.TakeWin
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_21.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.Character_8327372539_2.Events.Teleport
+[RE] ReplicatedStorage.Runtime.Actors.Character_8327372539_2.Events.ToggleFlyingCarpet
+[RE] ReplicatedStorage.Runtime.Actors.Character_9976213498_3.Events.Teleport
+[RE] ReplicatedStorage.Runtime.Actors.Character_9976213498_3.Events.ToggleFlyingCarpet
+[RE] ReplicatedStorage.Runtime.Actors.Player_6154738986.Events.Jump
+[RE] ReplicatedStorage.Runtime.Actors.Player_6154738986.Events.ToggleFastAutoJump
+[RE] ReplicatedStorage.Runtime.Actors.Player_6154738986.Events.ToggleFastAutoClimb
+[RE] ReplicatedStorage.Runtime.Actors.Player_6154738986.Events.RefreshShopVersion
+[RE] ReplicatedStorage.Runtime.Actors.Player_6154738986.Events.AddBadge
+[RE] ReplicatedStorage.Runtime.Actors.Player_4458734821.Events.Jump
+[RE] ReplicatedStorage.Runtime.Actors.Player_4458734821.Events.ToggleFastAutoJump
+[RE] ReplicatedStorage.Runtime.Actors.Player_4458734821.Events.ToggleFastAutoClimb
+[RE] ReplicatedStorage.Runtime.Actors.Player_4458734821.Events.RefreshShopVersion
+[RE] ReplicatedStorage.Runtime.Actors.Player_4458734821.Events.AddBadge
+[RE] ReplicatedStorage.Runtime.Actors.Character_4458734821_1.Events.Teleport
+[RE] ReplicatedStorage.Runtime.Actors.Character_4458734821_1.Events.ToggleFlyingCarpet
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_23.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.DiamondPointActor_25.Events.TakeDiamond
+[RE] ReplicatedStorage.Runtime.Actors.WinPointActor_26.Events.TakeWin
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_27.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldBrickPointActor_28.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.WinPointActor_29.Events.TakeWin
+[RE] ReplicatedStorage.Runtime.Actors.ChargePointActor_30.Events.UnlockCharge
+[RE] ReplicatedStorage.Runtime.Actors.ChargePointActor_30.Events.AddCharge
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_32.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_33.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_34.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.WinPointActor_35.Events.TakeWin
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_36.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.DiamondPointActor_37.Events.TakeDiamond
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_38.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_39.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldBrickPointActor_40.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_41.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_43.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.WinPointActor_44.Events.TakeWin
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_46.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_47.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_48.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_51.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldBrickPointActor_52.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.DiamondPointActor_55.Events.TakeDiamond
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_56.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_57.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.Player_9976213498.Events.Jump
+[RE] ReplicatedStorage.Runtime.Actors.Player_9976213498.Events.ToggleFastAutoJump
+[RE] ReplicatedStorage.Runtime.Actors.Player_9976213498.Events.ToggleFastAutoClimb
+[RE] ReplicatedStorage.Runtime.Actors.Player_9976213498.Events.RefreshShopVersion
+[RE] ReplicatedStorage.Runtime.Actors.Player_9976213498.Events.AddBadge
+[RE] ReplicatedStorage.Runtime.Actors.Player_11259479052.Events.Jump
+[RE] ReplicatedStorage.Runtime.Actors.Player_11259479052.Events.ToggleFastAutoJump
+[RE] ReplicatedStorage.Runtime.Actors.Player_11259479052.Events.ToggleFastAutoClimb
+[RE] ReplicatedStorage.Runtime.Actors.Player_11259479052.Events.RefreshShopVersion
+[RE] ReplicatedStorage.Runtime.Actors.Player_11259479052.Events.AddBadge
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_60.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_63.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_64.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldBrickPointActor_66.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_67.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_70.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_72.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_74.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_75.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_76.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_77.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.ChargePointActor_78.Events.UnlockCharge
+[RE] ReplicatedStorage.Runtime.Actors.ChargePointActor_78.Events.AddCharge
+[RE] ReplicatedStorage.Runtime.Actors.GoldPointActor_79.Events.TakeGold
+[RE] ReplicatedStorage.Runtime.Actors.Character_7755972490_1.Events.Teleport
+
+TOTAL REMOTES: 207 RE + 403 RF + 3 BE
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+SCAN COMPLETE âœ“
+Total Lines: 1934
+Services Scanned: 23
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
